@@ -15,7 +15,7 @@ module.exports = function (grunt) {
             config: {
                 app: 'app',
                 dist: 'dist',
-                ngModule: 'app'
+                ngModule: 'podoc'
             }
         }
     });
