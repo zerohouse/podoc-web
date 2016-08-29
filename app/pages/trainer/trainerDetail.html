@@ -1,0 +1,132 @@
+<div class="container flex" scroll="">
+    <!--<div class="layout-row layout-align-center-center pokemon-row">-->
+    <!--<div class="pokemon-column">-->
+
+    <!--</div>-->
+    <!--<div class="pokemon-column">-->
+    <!--</div>-->
+    <!--<div class="pokemon-column img text-wrap" ui-sref="trainerDetail({id:trainer.id})">-->
+    <!--</div>-->
+    <!--<div class="pokemon-column">-->
+
+    <!--</div>-->
+    <!--&lt;!&ndash;<div class="pokemon-column flex">&ndash;&gt;-->
+    <!--&lt;!&ndash;<div ui-sref="pokemonDetail({id:pokemon.id})" class="pokemon-img" ng-repeat="pokemon in trainer.pokemons">&ndash;&gt;-->
+    <!--&lt;!&ndash;<img ng-src="/{{pokemon.pokemon.img}}">&ndash;&gt;-->
+    <!--&lt;!&ndash;</div>&ndash;&gt;-->
+    <!--&lt;!&ndash;</div>&ndash;&gt;-->
+    <!--</div>-->
+    <!--<div class="layout-row layout-align-center-center padding-20">-->
+    <!--<div>-->
+    <!--<img ng-src="/{{pokemon.pokemon.img}}">-->
+    <!--</div>-->
+    <!--<div>-->
+    <!--<canvas radar="[pokemon.individual_attack,pokemon.individual_defense,pokemon.individual_stamina]"-->
+    <!--width="300" height="300" label="'개체값('+pokemon.power+')'"-->
+    <!--labels="['공격','방어','체력']" max="15"></canvas>-->
+    <!--</div>-->
+    <!--</div>-->
+    <div class="padding-20">
+        <div class="layout-row layout-align-center-center">
+            <div>
+                <img class="avatar" ng-src="{{trainer.img || '/images/profile.png'}}">
+            </div>
+            <h3 class="margin-left-20 padding-bottom-10"> {{trainer.nickname || '익명의 트레이너'}}</h3>
+        </div>
+
+        <div class="layout-row  poke-card layout-align-center-center text-align-center">
+            <div class="flex"></div>
+            <div class="flex">
+                <span ng-if="trainer.status">Lv. {{trainer.status.level}}</span>
+            </div>
+            <div class="flex">
+                <div class="small-title">순위</div>
+                {{trainer.rank}}위
+                <change change="trainer.change"></change>
+            </div>
+            <div class="flex">
+                <div class="small-title">탑 6 포켓몬 CP</div>
+                {{trainer.cp}}
+            </div>
+            <div class="flex"></div>
+        </div>
+    </div>
+
+    <div class="padding-20 text-align-center" ng-if="trainer.status">
+        <div class="item item-text-wrap">
+            <div class="layout-row">
+                <div class="flex">
+                    <div class="small-title">걸은 거리</div>
+                    {{trainer.status.km_walked}}km
+                </div>
+                <div class="flex">
+                    <div class="small-title">포켓볼 던진 횟수</div>
+                    {{trainer.status.pokeballs_thrown}}
+                </div>
+                <div class="flex">
+                    <div class="small-title">포켓스탑 방문 횟수</div>
+                    {{trainer.status.poke_stop_visits}}
+                </div>
+                <div class="flex">
+                    <div class="small-title">부화한 알</div>
+                    {{trainer.status.eggs_hatched || 0}}
+                </div>
+                <div class="flex">
+                    <div class="small-title">진화한 포켓몬</div>
+                    {{trainer.status.evolutions || 0}}
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="padding-20 text-align-center" ng-if="trainer.status">
+        <div class="item item-text-wrap skills">
+            <div class="layout-row margin-top-10">
+                <div class="flex">
+                    <div class="small-title">포켓몬 잡은 횟수 / 포켓몬 만난 횟수</div>
+                    {{trainer.status.pokemons_captured}}/{{trainer.status.pokemons_encountered}}(
+                    <percent v="trainer.status.pokemons_captured" m="trainer.status.pokemons_encountered"></percent>
+                    )
+                </div>
+                <div class="flex">
+                    <div class="small-title">체육관 승리/공격</div>
+                    {{trainer.status.battle_attack_won || 0}}/{{trainer.status.battle_attack_total || 0}}(
+                    <percent v="trainer.status.battle_attack_won" m="trainer.status.battle_attack_total"></percent>
+                    )
+                </div>
+                <div class="flex">
+                    <div class="small-title">체육관 트레이닝/승리</div>
+                    {{trainer.status.battle_training_won || 0}}/{{trainer.status.battle_training_total || 0}}(
+                    <percent v="trainer.status.battle_training_won"
+                             m="trainer.status.battle_training_total"></percent>
+                    )
+                </div>
+                <div class="flex">
+                    <div class="small-title">모은 포켓몬 종류</div>
+                    {{trainer.status.unique_pokedex_entries}}/151(
+                    <percent v="trainer.status.unique_pokedex_entries" m="151"></percent>
+                    )
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="layout-row poke-card">
+        <div class="padding-20 flex text-align-center">
+            <h5>탑 6 포켓몬 CP 변동</h5>
+            <canvas player-status-chart class="flex" status="trainer.histories"></canvas>
+        </div>
+        <div class="padding-20 text-align-center flex">
+            <h5>타입별 포켓몬 현황</h5>
+            <canvas pokemons-bar-chart class="flex" pokemons="trainer.pokemons"></canvas>
+        </div>
+    </div>
+    <!--<span ng-repeat="pokemon in trainer.pokemons">-->
+        <!--<img ng-src="/{{pokemon.pokemon.img}}" ui-sref="pokemonDetail({id:pokemon.id})">-->
+        <!--{{pokemon.updatedAt | date:'yyyy-M-D'}}-->
+    <!--</span>-->
+
+    <!--<div class="padding">-->
+    <!--<replies type="DICTIONARY" replies="replies" replies-id="pokemon.id"></replies>-->
+    <!--</div>-->
+</div>

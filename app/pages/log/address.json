@@ -1,0 +1,4898 @@
+[
+  {
+    "pokemonSize": 29588,
+    "trainerSize": 73,
+    "longName": "Seoul",
+    "shortName": "Seoul"
+  },
+  {
+    "pokemonSize": 308468,
+    "trainerSize": 719,
+    "longName": "South Korea",
+    "shortName": "KR"
+  },
+  {
+    "pokemonSize": 776,
+    "trainerSize": 1,
+    "longName": "Point Cook",
+    "shortName": "Point Cook"
+  },
+  {
+    "pokemonSize": 776,
+    "trainerSize": 1,
+    "longName": "Wyndham City",
+    "shortName": "Wyndham"
+  },
+  {
+    "pokemonSize": 4624,
+    "trainerSize": 10,
+    "longName": "Victoria",
+    "shortName": "VIC"
+  },
+  {
+    "pokemonSize": 28786,
+    "trainerSize": 60,
+    "longName": "Australia",
+    "shortName": "AU"
+  },
+  {
+    "pokemonSize": 776,
+    "trainerSize": 1,
+    "longName": "3030",
+    "shortName": "3030"
+  },
+  {
+    "pokemonSize": 105975,
+    "trainerSize": 194,
+    "longName": "Sokcho-si",
+    "shortName": "Sokcho-si"
+  },
+  {
+    "pokemonSize": 146078,
+    "trainerSize": 309,
+    "longName": "Gangwon-do",
+    "shortName": "Gangwon-do"
+  },
+  {
+    "pokemonSize": 14830,
+    "trainerSize": 47,
+    "longName": "Chuncheon-si",
+    "shortName": "Chuncheon-si"
+  },
+  {
+    "pokemonSize": 50461,
+    "trainerSize": 107,
+    "longName": "Ulsan",
+    "shortName": "Ulsan"
+  },
+  {
+    "pokemonSize": 18629,
+    "trainerSize": 28,
+    "longName": "New York",
+    "shortName": "New York"
+  },
+  {
+    "pokemonSize": 18629,
+    "trainerSize": 28,
+    "longName": "New York",
+    "shortName": "NY"
+  },
+  {
+    "pokemonSize": 48813,
+    "trainerSize": 95,
+    "longName": "United States",
+    "shortName": "US"
+  },
+  {
+    "pokemonSize": 6426,
+    "trainerSize": 12,
+    "longName": "Hanoi",
+    "shortName": "Hanoi"
+  },
+  {
+    "pokemonSize": 7719,
+    "trainerSize": 14,
+    "longName": "Hoàn Kiếm",
+    "shortName": "Hoàn Kiếm"
+  },
+  {
+    "pokemonSize": 6426,
+    "trainerSize": 12,
+    "longName": "Hanoi",
+    "shortName": "Hanoi"
+  },
+  {
+    "pokemonSize": 15075,
+    "trainerSize": 38,
+    "longName": "Vietnam",
+    "shortName": "VN"
+  },
+  {
+    "pokemonSize": 6452,
+    "trainerSize": 18,
+    "longName": "Daejeon",
+    "shortName": "Daejeon"
+  },
+  {
+    "pokemonSize": 10615,
+    "trainerSize": 29,
+    "longName": "Yangyang-gun",
+    "shortName": "Yangyang-gun"
+  },
+  {
+    "pokemonSize": 521,
+    "trainerSize": 1,
+    "longName": "Madrid",
+    "shortName": "Madrid"
+  },
+  {
+    "pokemonSize": 521,
+    "trainerSize": 1,
+    "longName": "Madrid",
+    "shortName": "Madrid"
+  },
+  {
+    "pokemonSize": 521,
+    "trainerSize": 1,
+    "longName": "Área Metropolitalitana y Corredor del Henares",
+    "shortName": "Área Metropolitalitana y Corredor del Henares"
+  },
+  {
+    "pokemonSize": 521,
+    "trainerSize": 1,
+    "longName": "Madrid",
+    "shortName": "M"
+  },
+  {
+    "pokemonSize": 521,
+    "trainerSize": 1,
+    "longName": "Community of Madrid",
+    "shortName": "Community of Madrid"
+  },
+  {
+    "pokemonSize": 1740,
+    "trainerSize": 5,
+    "longName": "Spain",
+    "shortName": "ES"
+  },
+  {
+    "pokemonSize": 457,
+    "trainerSize": 2,
+    "longName": "Frankfurt",
+    "shortName": "Frankfurt"
+  },
+  {
+    "pokemonSize": 457,
+    "trainerSize": 2,
+    "longName": "Darmstadt",
+    "shortName": "DA"
+  },
+  {
+    "pokemonSize": 457,
+    "trainerSize": 2,
+    "longName": "Hesse",
+    "shortName": "HE"
+  },
+  {
+    "pokemonSize": 4286,
+    "trainerSize": 11,
+    "longName": "Germany",
+    "shortName": "DE"
+  },
+  {
+    "pokemonSize": 1200,
+    "trainerSize": 1,
+    "longName": "Žilina",
+    "shortName": "Žilina"
+  },
+  {
+    "pokemonSize": 1200,
+    "trainerSize": 1,
+    "longName": "Žilina District",
+    "shortName": "Žilina District"
+  },
+  {
+    "pokemonSize": 1200,
+    "trainerSize": 1,
+    "longName": "Žilina Region",
+    "shortName": "Žilina Region"
+  },
+  {
+    "pokemonSize": 1353,
+    "trainerSize": 2,
+    "longName": "Slovakia",
+    "shortName": "SK"
+  },
+  {
+    "pokemonSize": 1545,
+    "trainerSize": 1,
+    "longName": "Cupertino",
+    "shortName": "Cupertino"
+  },
+  {
+    "pokemonSize": 1545,
+    "trainerSize": 1,
+    "longName": "Santa Clara County",
+    "shortName": "Santa Clara County"
+  },
+  {
+    "pokemonSize": 11058,
+    "trainerSize": 23,
+    "longName": "California",
+    "shortName": "CA"
+  },
+  {
+    "pokemonSize": 10283,
+    "trainerSize": 21,
+    "longName": "Taito",
+    "shortName": "Taito"
+  },
+  {
+    "pokemonSize": 37085,
+    "trainerSize": 67,
+    "longName": "Tokyo",
+    "shortName": "Tokyo"
+  },
+  {
+    "pokemonSize": 63003,
+    "trainerSize": 138,
+    "longName": "Japan",
+    "shortName": "JP"
+  },
+  {
+    "pokemonSize": 697,
+    "trainerSize": 1,
+    "longName": "Kasuga",
+    "shortName": "Kasuga"
+  },
+  {
+    "pokemonSize": 2236,
+    "trainerSize": 5,
+    "longName": "Fukuoka Prefecture",
+    "shortName": "Fukuoka Prefecture"
+  },
+  {
+    "pokemonSize": 1224,
+    "trainerSize": 6,
+    "longName": "Suwon-si",
+    "shortName": "Suwon-si"
+  },
+  {
+    "pokemonSize": 29047,
+    "trainerSize": 80,
+    "longName": "Gyeonggi-do",
+    "shortName": "Gyeonggi-do"
+  },
+  {
+    "pokemonSize": 296,
+    "trainerSize": 1,
+    "longName": "Gwangju",
+    "shortName": "Gwangju"
+  },
+  {
+    "pokemonSize": 106,
+    "trainerSize": 1,
+    "longName": "Kelowna",
+    "shortName": "Kelowna"
+  },
+  {
+    "pokemonSize": 106,
+    "trainerSize": 1,
+    "longName": "Central Okanagan",
+    "shortName": "Central Okanagan"
+  },
+  {
+    "pokemonSize": 1470,
+    "trainerSize": 5,
+    "longName": "British Columbia",
+    "shortName": "BC"
+  },
+  {
+    "pokemonSize": 4393,
+    "trainerSize": 15,
+    "longName": "Canada",
+    "shortName": "CA"
+  },
+  {
+    "pokemonSize": 379,
+    "trainerSize": 2,
+    "longName": "Chungju-si",
+    "shortName": "Chungju-si"
+  },
+  {
+    "pokemonSize": 2586,
+    "trainerSize": 7,
+    "longName": "Chungcheongbuk-do",
+    "shortName": "Chungcheongbuk-do"
+  },
+  {
+    "pokemonSize": 57,
+    "trainerSize": 1,
+    "longName": "Wynnewood",
+    "shortName": "Wynnewood"
+  },
+  {
+    "pokemonSize": 57,
+    "trainerSize": 1,
+    "longName": "Lower Merion Township",
+    "shortName": "Lower Merion Township"
+  },
+  {
+    "pokemonSize": 468,
+    "trainerSize": 2,
+    "longName": "Montgomery County",
+    "shortName": "Montgomery County"
+  },
+  {
+    "pokemonSize": 1652,
+    "trainerSize": 2,
+    "longName": "Pennsylvania",
+    "shortName": "PA"
+  },
+  {
+    "pokemonSize": 19216,
+    "trainerSize": 54,
+    "longName": "Busan",
+    "shortName": "Busan"
+  },
+  {
+    "pokemonSize": 10150,
+    "trainerSize": 27,
+    "longName": "Singapore",
+    "shortName": "Singapore"
+  },
+  {
+    "pokemonSize": 10150,
+    "trainerSize": 27,
+    "longName": "Singapore",
+    "shortName": "SG"
+  },
+  {
+    "pokemonSize": 439,
+    "trainerSize": 1,
+    "longName": "Gimcheon-si",
+    "shortName": "Gimcheon-si"
+  },
+  {
+    "pokemonSize": 9151,
+    "trainerSize": 20,
+    "longName": "Gyeongsangbuk-do",
+    "shortName": "Gyeongsangbuk-do"
+  },
+  {
+    "pokemonSize": 1746,
+    "trainerSize": 7,
+    "longName": "Daegu",
+    "shortName": "Daegu"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Oceanside",
+    "shortName": "Oceanside"
+  },
+  {
+    "pokemonSize": 978,
+    "trainerSize": 1,
+    "longName": "San Diego County",
+    "shortName": "San Diego County"
+  },
+  {
+    "pokemonSize": 786,
+    "trainerSize": 2,
+    "longName": "Cheongju-si",
+    "shortName": "Cheongju-si"
+  },
+  {
+    "pokemonSize": 2033,
+    "trainerSize": 1,
+    "longName": "Anaheim",
+    "shortName": "Anaheim"
+  },
+  {
+    "pokemonSize": 3546,
+    "trainerSize": 5,
+    "longName": "Orange County",
+    "shortName": "Orange County"
+  },
+  {
+    "pokemonSize": 670,
+    "trainerSize": 1,
+    "longName": "North Strathfield",
+    "shortName": "North Strathfield"
+  },
+  {
+    "pokemonSize": 1269,
+    "trainerSize": 3,
+    "longName": "City of Canada Bay Council",
+    "shortName": "Canada Bay"
+  },
+  {
+    "pokemonSize": 14537,
+    "trainerSize": 36,
+    "longName": "New South Wales",
+    "shortName": "NSW"
+  },
+  {
+    "pokemonSize": 670,
+    "trainerSize": 1,
+    "longName": "2137",
+    "shortName": "2137"
+  },
+  {
+    "pokemonSize": 4255,
+    "trainerSize": 8,
+    "longName": "Auckland",
+    "shortName": "Auckland"
+  },
+  {
+    "pokemonSize": 4566,
+    "trainerSize": 9,
+    "longName": "Auckland",
+    "shortName": "Auckland"
+  },
+  {
+    "pokemonSize": 4566,
+    "trainerSize": 9,
+    "longName": "Auckland",
+    "shortName": "Auckland"
+  },
+  {
+    "pokemonSize": 10395,
+    "trainerSize": 17,
+    "longName": "New Zealand",
+    "shortName": "NZ"
+  },
+  {
+    "pokemonSize": 641,
+    "trainerSize": 3,
+    "longName": "Pohang-si",
+    "shortName": "Pohang-si"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Chuo Ward",
+    "shortName": "Chuo Ward"
+  },
+  {
+    "pokemonSize": 984,
+    "trainerSize": 2,
+    "longName": "Chiba",
+    "shortName": "Chiba"
+  },
+  {
+    "pokemonSize": 3245,
+    "trainerSize": 8,
+    "longName": "Chiba Prefecture",
+    "shortName": "Chiba Prefecture"
+  },
+  {
+    "pokemonSize": 1276,
+    "trainerSize": 4,
+    "longName": "Shibuya",
+    "shortName": "Shibuya"
+  },
+  {
+    "pokemonSize": 3417,
+    "trainerSize": 9,
+    "longName": "Rome",
+    "shortName": "Rome"
+  },
+  {
+    "pokemonSize": 3417,
+    "trainerSize": 9,
+    "longName": "Rome",
+    "shortName": "Rome"
+  },
+  {
+    "pokemonSize": 3417,
+    "trainerSize": 9,
+    "longName": "Metropolitan City of Rome",
+    "shortName": "RM"
+  },
+  {
+    "pokemonSize": 3417,
+    "trainerSize": 9,
+    "longName": "Lazio",
+    "shortName": "Lazio"
+  },
+  {
+    "pokemonSize": 5291,
+    "trainerSize": 13,
+    "longName": "Italy",
+    "shortName": "IT"
+  },
+  {
+    "pokemonSize": 5744,
+    "trainerSize": 16,
+    "longName": "Ho Chi Minh City",
+    "shortName": "Ho Chi Minh City"
+  },
+  {
+    "pokemonSize": 5744,
+    "trainerSize": 16,
+    "longName": "Ho Chi Minh",
+    "shortName": "Ho Chi Minh"
+  },
+  {
+    "pokemonSize": 5744,
+    "trainerSize": 16,
+    "longName": "70000",
+    "shortName": "70000"
+  },
+  {
+    "pokemonSize": 6672,
+    "trainerSize": 23,
+    "longName": "Incheon",
+    "shortName": "Incheon"
+  },
+  {
+    "pokemonSize": 2651,
+    "trainerSize": 6,
+    "longName": "Yongin-si",
+    "shortName": "Yongin-si"
+  },
+  {
+    "pokemonSize": 522,
+    "trainerSize": 2,
+    "longName": "Anyang-si",
+    "shortName": "Anyang-si"
+  },
+  {
+    "pokemonSize": 270,
+    "trainerSize": 1,
+    "longName": "Ota",
+    "shortName": "Ota"
+  },
+  {
+    "pokemonSize": 323,
+    "trainerSize": 1,
+    "longName": "El Camino Village",
+    "shortName": "El Camino Village"
+  },
+  {
+    "pokemonSize": 3835,
+    "trainerSize": 11,
+    "longName": "Los Angeles County",
+    "shortName": "Los Angeles County"
+  },
+  {
+    "pokemonSize": 1219,
+    "trainerSize": 4,
+    "longName": "Barcelona",
+    "shortName": "Barcelona"
+  },
+  {
+    "pokemonSize": 1219,
+    "trainerSize": 4,
+    "longName": "Barcelona",
+    "shortName": "Barcelona"
+  },
+  {
+    "pokemonSize": 1219,
+    "trainerSize": 4,
+    "longName": "El Barcelonès",
+    "shortName": "El Barcelonès"
+  },
+  {
+    "pokemonSize": 1219,
+    "trainerSize": 4,
+    "longName": "Barcelona",
+    "shortName": "Barcelona"
+  },
+  {
+    "pokemonSize": 1219,
+    "trainerSize": 4,
+    "longName": "Catalonia",
+    "shortName": "CT"
+  },
+  {
+    "pokemonSize": 5619,
+    "trainerSize": 11,
+    "longName": "Sydney",
+    "shortName": "Sydney"
+  },
+  {
+    "pokemonSize": 7146,
+    "trainerSize": 15,
+    "longName": "2000",
+    "shortName": "2000"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Naka Ward",
+    "shortName": "Naka Ward"
+  },
+  {
+    "pokemonSize": 870,
+    "trainerSize": 2,
+    "longName": "Okayama",
+    "shortName": "Okayama"
+  },
+  {
+    "pokemonSize": 870,
+    "trainerSize": 2,
+    "longName": "Okayama Prefecture",
+    "shortName": "Okayama Prefecture"
+  },
+  {
+    "pokemonSize": 335,
+    "trainerSize": 2,
+    "longName": "Amman",
+    "shortName": "Amman"
+  },
+  {
+    "pokemonSize": 335,
+    "trainerSize": 2,
+    "longName": "Amman Governorate",
+    "shortName": "Amman Governorate"
+  },
+  {
+    "pokemonSize": 335,
+    "trainerSize": 2,
+    "longName": "Jordan",
+    "shortName": "JO"
+  },
+  {
+    "pokemonSize": 2092,
+    "trainerSize": 4,
+    "longName": "Lyon",
+    "shortName": "Lyon"
+  },
+  {
+    "pokemonSize": 2092,
+    "trainerSize": 4,
+    "longName": "Rhône",
+    "shortName": "Rhône"
+  },
+  {
+    "pokemonSize": 2092,
+    "trainerSize": 4,
+    "longName": "Auvergne-Rhône-Alpes",
+    "shortName": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "pokemonSize": 4129,
+    "trainerSize": 6,
+    "longName": "France",
+    "shortName": "FR"
+  },
+  {
+    "pokemonSize": 3202,
+    "trainerSize": 8,
+    "longName": "Ulleung-gun",
+    "shortName": "Ulleung-gun"
+  },
+  {
+    "pokemonSize": 2793,
+    "trainerSize": 5,
+    "longName": "Makati",
+    "shortName": "Makati"
+  },
+  {
+    "pokemonSize": 6830,
+    "trainerSize": 12,
+    "longName": "Metro Manila",
+    "shortName": "NCR"
+  },
+  {
+    "pokemonSize": 16807,
+    "trainerSize": 37,
+    "longName": "Philippines",
+    "shortName": "PH"
+  },
+  {
+    "pokemonSize": 4903,
+    "trainerSize": 6,
+    "longName": "Brisbane City",
+    "shortName": "Brisbane City"
+  },
+  {
+    "pokemonSize": 5794,
+    "trainerSize": 9,
+    "longName": "Brisbane City",
+    "shortName": "Brisbane"
+  },
+  {
+    "pokemonSize": 8192,
+    "trainerSize": 12,
+    "longName": "Queensland",
+    "shortName": "QLD"
+  },
+  {
+    "pokemonSize": 4903,
+    "trainerSize": 6,
+    "longName": "4000",
+    "shortName": "4000"
+  },
+  {
+    "pokemonSize": 404,
+    "trainerSize": 1,
+    "longName": "Onna",
+    "shortName": "Onna"
+  },
+  {
+    "pokemonSize": 404,
+    "trainerSize": 1,
+    "longName": "Kunigami District",
+    "shortName": "Kunigami District"
+  },
+  {
+    "pokemonSize": 1299,
+    "trainerSize": 5,
+    "longName": "Okinawa Prefecture",
+    "shortName": "Okinawa Prefecture"
+  },
+  {
+    "pokemonSize": 811,
+    "trainerSize": 1,
+    "longName": "Ta Sit",
+    "shortName": "ต.ตาสิทธิ์"
+  },
+  {
+    "pokemonSize": 811,
+    "trainerSize": 1,
+    "longName": "Pluak Daeng District",
+    "shortName": "อ.ปลวกแดง"
+  },
+  {
+    "pokemonSize": 821,
+    "trainerSize": 2,
+    "longName": "Rayong",
+    "shortName": "จ.ระยอง"
+  },
+  {
+    "pokemonSize": 15325,
+    "trainerSize": 31,
+    "longName": "Thailand",
+    "shortName": "TH"
+  },
+  {
+    "pokemonSize": 704,
+    "trainerSize": 1,
+    "longName": "Sinan-gun",
+    "shortName": "Sinan-gun"
+  },
+  {
+    "pokemonSize": 3190,
+    "trainerSize": 7,
+    "longName": "Jeollanam-do",
+    "shortName": "Jeollanam-do"
+  },
+  {
+    "pokemonSize": 332,
+    "trainerSize": 1,
+    "longName": "Ichikawa",
+    "shortName": "Ichikawa"
+  },
+  {
+    "pokemonSize": 2903,
+    "trainerSize": 6,
+    "longName": "Hong Kong",
+    "shortName": "Hong Kong"
+  },
+  {
+    "pokemonSize": 2903,
+    "trainerSize": 6,
+    "longName": "Hong Kong",
+    "shortName": "HK"
+  },
+  {
+    "pokemonSize": 299,
+    "trainerSize": 1,
+    "longName": "Gyeongju-si",
+    "shortName": "Gyeongju-si"
+  },
+  {
+    "pokemonSize": 272,
+    "trainerSize": 1,
+    "longName": "Washington",
+    "shortName": "Washington"
+  },
+  {
+    "pokemonSize": 831,
+    "trainerSize": 2,
+    "longName": "District of Columbia",
+    "shortName": "District of Columbia"
+  },
+  {
+    "pokemonSize": 272,
+    "trainerSize": 1,
+    "longName": "District of Columbia",
+    "shortName": "DC"
+  },
+  {
+    "pokemonSize": 881,
+    "trainerSize": 2,
+    "longName": "Kaohsiung",
+    "shortName": "Kaohsiung"
+  },
+  {
+    "pokemonSize": 881,
+    "trainerSize": 2,
+    "longName": "龍子里",
+    "shortName": "龍子里"
+  },
+  {
+    "pokemonSize": 881,
+    "trainerSize": 2,
+    "longName": "Gushan District",
+    "shortName": "Gushan District"
+  },
+  {
+    "pokemonSize": 881,
+    "trainerSize": 2,
+    "longName": "Kaohsiung City",
+    "shortName": "Kaohsiung City"
+  },
+  {
+    "pokemonSize": 6921,
+    "trainerSize": 17,
+    "longName": "Taiwan",
+    "shortName": "TW"
+  },
+  {
+    "pokemonSize": 1257,
+    "trainerSize": 1,
+    "longName": "Raleigh",
+    "shortName": "Raleigh"
+  },
+  {
+    "pokemonSize": 1257,
+    "trainerSize": 1,
+    "longName": "Wake County",
+    "shortName": "Wake County"
+  },
+  {
+    "pokemonSize": 1257,
+    "trainerSize": 1,
+    "longName": "North Carolina",
+    "shortName": "NC"
+  },
+  {
+    "pokemonSize": 396,
+    "trainerSize": 1,
+    "longName": "Chitose",
+    "shortName": "Chitose"
+  },
+  {
+    "pokemonSize": 3600,
+    "trainerSize": 6,
+    "longName": "Hokkaido Prefecture",
+    "shortName": "Hokkaido Prefecture"
+  },
+  {
+    "pokemonSize": 208,
+    "trainerSize": 1,
+    "longName": "Otaru",
+    "shortName": "Otaru"
+  },
+  {
+    "pokemonSize": 697,
+    "trainerSize": 2,
+    "longName": "Las Pinas",
+    "shortName": "Las Pinas"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Docklands",
+    "shortName": "Docklands"
+  },
+  {
+    "pokemonSize": 1281,
+    "trainerSize": 2,
+    "longName": "Melbourne City",
+    "shortName": "Melbourne"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "3008",
+    "shortName": "3008"
+  },
+  {
+    "pokemonSize": 1358,
+    "trainerSize": 2,
+    "longName": "Nishitokyo",
+    "shortName": "Nishitokyo"
+  },
+  {
+    "pokemonSize": 9302,
+    "trainerSize": 16,
+    "longName": "Bangkok",
+    "shortName": "กทม"
+  },
+  {
+    "pokemonSize": 2269,
+    "trainerSize": 4,
+    "longName": "Robbinsdale",
+    "shortName": "Robbinsdale"
+  },
+  {
+    "pokemonSize": 3346,
+    "trainerSize": 6,
+    "longName": "Hennepin County",
+    "shortName": "Hennepin County"
+  },
+  {
+    "pokemonSize": 2269,
+    "trainerSize": 4,
+    "longName": "Minnesota",
+    "shortName": "MN"
+  },
+  {
+    "pokemonSize": 1949,
+    "trainerSize": 3,
+    "longName": "Tainan",
+    "shortName": "Tainan"
+  },
+  {
+    "pokemonSize": 1949,
+    "trainerSize": 3,
+    "longName": "大學里",
+    "shortName": "大學里"
+  },
+  {
+    "pokemonSize": 2306,
+    "trainerSize": 5,
+    "longName": "East District",
+    "shortName": "East District"
+  },
+  {
+    "pokemonSize": 1949,
+    "trainerSize": 3,
+    "longName": "Tainan City",
+    "shortName": "Tainan City"
+  },
+  {
+    "pokemonSize": 2268,
+    "trainerSize": 3,
+    "longName": "Taguig",
+    "shortName": "Taguig"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Tel Aviv-Yafo",
+    "shortName": "Tel Aviv-Yafo"
+  },
+  {
+    "pokemonSize": 1056,
+    "trainerSize": 1,
+    "longName": "Tel Aviv District",
+    "shortName": "Tel Aviv District"
+  },
+  {
+    "pokemonSize": 1310,
+    "trainerSize": 2,
+    "longName": "Israel",
+    "shortName": "IL"
+  },
+  {
+    "pokemonSize": 1484,
+    "trainerSize": 2,
+    "longName": "San Jose del Monte City",
+    "shortName": "CSJDM"
+  },
+  {
+    "pokemonSize": 1484,
+    "trainerSize": 2,
+    "longName": "Bulacan",
+    "shortName": "Bulacan"
+  },
+  {
+    "pokemonSize": 2315,
+    "trainerSize": 5,
+    "longName": "Central Luzon",
+    "shortName": "Central Luzon"
+  },
+  {
+    "pokemonSize": 1484,
+    "trainerSize": 2,
+    "longName": "3023",
+    "shortName": "3023"
+  },
+  {
+    "pokemonSize": 338,
+    "trainerSize": 1,
+    "longName": "Karlsruhe",
+    "shortName": "Karlsruhe"
+  },
+  {
+    "pokemonSize": 338,
+    "trainerSize": 1,
+    "longName": "Karlsruhe",
+    "shortName": "KA"
+  },
+  {
+    "pokemonSize": 338,
+    "trainerSize": 1,
+    "longName": "Baden-Württemberg",
+    "shortName": "BW"
+  },
+  {
+    "pokemonSize": 587,
+    "trainerSize": 2,
+    "longName": "Gangneung-si",
+    "shortName": "Gangneung-si"
+  },
+  {
+    "pokemonSize": 451,
+    "trainerSize": 1,
+    "longName": "Wonju-si",
+    "shortName": "Wonju-si"
+  },
+  {
+    "pokemonSize": 816,
+    "trainerSize": 1,
+    "longName": "Cheongsong-gun",
+    "shortName": "Cheongsong-gun"
+  },
+  {
+    "pokemonSize": 311,
+    "trainerSize": 1,
+    "longName": "Takanini",
+    "shortName": "Takanini"
+  },
+  {
+    "pokemonSize": 2720,
+    "trainerSize": 5,
+    "longName": "Shinjuku",
+    "shortName": "Shinjuku"
+  },
+  {
+    "pokemonSize": 965,
+    "trainerSize": 5,
+    "longName": "Ansan-si",
+    "shortName": "Ansan-si"
+  },
+  {
+    "pokemonSize": 930,
+    "trainerSize": 3,
+    "longName": "Nagoya",
+    "shortName": "Nagoya"
+  },
+  {
+    "pokemonSize": 930,
+    "trainerSize": 5,
+    "longName": "Aichi Prefecture",
+    "shortName": "Aichi Prefecture"
+  },
+  {
+    "pokemonSize": 3818,
+    "trainerSize": 8,
+    "longName": "Cebu City",
+    "shortName": "Cebu City"
+  },
+  {
+    "pokemonSize": 4719,
+    "trainerSize": 12,
+    "longName": "Cebu",
+    "shortName": "Cebu"
+  },
+  {
+    "pokemonSize": 5465,
+    "trainerSize": 13,
+    "longName": "Central Visayas",
+    "shortName": "Central Visayas"
+  },
+  {
+    "pokemonSize": 3818,
+    "trainerSize": 8,
+    "longName": "6000",
+    "shortName": "6000"
+  },
+  {
+    "pokemonSize": 1775,
+    "trainerSize": 1,
+    "longName": "Noida",
+    "shortName": "Noida"
+  },
+  {
+    "pokemonSize": 1775,
+    "trainerSize": 1,
+    "longName": "Gautam Buddh Nagar",
+    "shortName": "Gautam Buddh Nagar"
+  },
+  {
+    "pokemonSize": 1775,
+    "trainerSize": 1,
+    "longName": "Uttar Pradesh",
+    "shortName": "UP"
+  },
+  {
+    "pokemonSize": 1948,
+    "trainerSize": 2,
+    "longName": "India",
+    "shortName": "IN"
+  },
+  {
+    "pokemonSize": 1775,
+    "trainerSize": 1,
+    "longName": "201301",
+    "shortName": "201301"
+  },
+  {
+    "pokemonSize": 5719,
+    "trainerSize": 14,
+    "longName": "Osaka",
+    "shortName": "Osaka"
+  },
+  {
+    "pokemonSize": 8075,
+    "trainerSize": 22,
+    "longName": "Osaka Prefecture",
+    "shortName": "Osaka Prefecture"
+  },
+  {
+    "pokemonSize": 2023,
+    "trainerSize": 3,
+    "longName": "Goyang-si",
+    "shortName": "Goyang-si"
+  },
+  {
+    "pokemonSize": 373,
+    "trainerSize": 1,
+    "longName": "Riverside",
+    "shortName": "Riverside"
+  },
+  {
+    "pokemonSize": 373,
+    "trainerSize": 1,
+    "longName": "Riverside County",
+    "shortName": "Riverside County"
+  },
+  {
+    "pokemonSize": 957,
+    "trainerSize": 2,
+    "longName": "Petaling Jaya",
+    "shortName": "PJ"
+  },
+  {
+    "pokemonSize": 2089,
+    "trainerSize": 4,
+    "longName": "Petaling",
+    "shortName": "Petaling"
+  },
+  {
+    "pokemonSize": 2908,
+    "trainerSize": 5,
+    "longName": "Selangor",
+    "shortName": "Selangor"
+  },
+  {
+    "pokemonSize": 5860,
+    "trainerSize": 11,
+    "longName": "Malaysia",
+    "shortName": "MY"
+  },
+  {
+    "pokemonSize": 969,
+    "trainerSize": 3,
+    "longName": "Inje-gun",
+    "shortName": "Inje-gun"
+  },
+  {
+    "pokemonSize": 5829,
+    "trainerSize": 8,
+    "longName": "Christchurch",
+    "shortName": "Christchurch"
+  },
+  {
+    "pokemonSize": 5829,
+    "trainerSize": 8,
+    "longName": "Christchurch City",
+    "shortName": "Christchurch City"
+  },
+  {
+    "pokemonSize": 5829,
+    "trainerSize": 8,
+    "longName": "Canterbury",
+    "shortName": "Canterbury"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Saiwai Ward",
+    "shortName": "Saiwai Ward"
+  },
+  {
+    "pokemonSize": 151,
+    "trainerSize": 1,
+    "longName": "Kawasaki",
+    "shortName": "Kawasaki"
+  },
+  {
+    "pokemonSize": 1983,
+    "trainerSize": 5,
+    "longName": "Kanagawa Prefecture",
+    "shortName": "Kanagawa Prefecture"
+  },
+  {
+    "pokemonSize": 163,
+    "trainerSize": 1,
+    "longName": "Dubbo",
+    "shortName": "Dubbo"
+  },
+  {
+    "pokemonSize": 163,
+    "trainerSize": 1,
+    "longName": "Dubbo City Council",
+    "shortName": "Dubbo"
+  },
+  {
+    "pokemonSize": 163,
+    "trainerSize": 1,
+    "longName": "2830",
+    "shortName": "2830"
+  },
+  {
+    "pokemonSize": 539,
+    "trainerSize": 1,
+    "longName": "Jecheon-si",
+    "shortName": "Jecheon-si"
+  },
+  {
+    "pokemonSize": 3105,
+    "trainerSize": 11,
+    "longName": "London",
+    "shortName": "London"
+  },
+  {
+    "pokemonSize": 3105,
+    "trainerSize": 11,
+    "longName": "London",
+    "shortName": "London"
+  },
+  {
+    "pokemonSize": 4357,
+    "trainerSize": 12,
+    "longName": "Greater London",
+    "shortName": "Greater London"
+  },
+  {
+    "pokemonSize": 4357,
+    "trainerSize": 12,
+    "longName": "England",
+    "shortName": "England"
+  },
+  {
+    "pokemonSize": 4357,
+    "trainerSize": 12,
+    "longName": "United Kingdom",
+    "shortName": "GB"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Aoba Ward",
+    "shortName": "Aoba Ward"
+  },
+  {
+    "pokemonSize": 535,
+    "trainerSize": 2,
+    "longName": "Sendai",
+    "shortName": "Sendai"
+  },
+  {
+    "pokemonSize": 535,
+    "trainerSize": 2,
+    "longName": "Miyagi Prefecture",
+    "shortName": "Miyagi Prefecture"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Minato Ward",
+    "shortName": "Minato Ward"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Yanggu-gun",
+    "shortName": "Yanggu-gun"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Sakai Ward",
+    "shortName": "Sakai Ward"
+  },
+  {
+    "pokemonSize": 610,
+    "trainerSize": 1,
+    "longName": "Sakai",
+    "shortName": "Sakai"
+  },
+  {
+    "pokemonSize": 2296,
+    "trainerSize": 8,
+    "longName": "Seongnam-si",
+    "shortName": "Seongnam-si"
+  },
+  {
+    "pokemonSize": 140,
+    "trainerSize": 1,
+    "longName": "Sfax",
+    "shortName": "Sfax"
+  },
+  {
+    "pokemonSize": 140,
+    "trainerSize": 1,
+    "longName": "Sfax",
+    "shortName": "Sfax"
+  },
+  {
+    "pokemonSize": 140,
+    "trainerSize": 1,
+    "longName": "Tunisia",
+    "shortName": "TN"
+  },
+  {
+    "pokemonSize": 1704,
+    "trainerSize": 2,
+    "longName": "Recoleta",
+    "shortName": "Recoleta"
+  },
+  {
+    "pokemonSize": 1704,
+    "trainerSize": 2,
+    "longName": "Recoleta",
+    "shortName": "Recoleta"
+  },
+  {
+    "pokemonSize": 2125,
+    "trainerSize": 4,
+    "longName": "Santiago Province",
+    "shortName": "Santiago Province"
+  },
+  {
+    "pokemonSize": 2125,
+    "trainerSize": 4,
+    "longName": "Santiago Metropolitan Region",
+    "shortName": "Santiago Metropolitan Region"
+  },
+  {
+    "pokemonSize": 2125,
+    "trainerSize": 4,
+    "longName": "Chile",
+    "shortName": "CL"
+  },
+  {
+    "pokemonSize": 546,
+    "trainerSize": 3,
+    "longName": "Pyeongtaek-si",
+    "shortName": "Pyeongtaek-si"
+  },
+  {
+    "pokemonSize": 981,
+    "trainerSize": 2,
+    "longName": "Berlin",
+    "shortName": "Berlin"
+  },
+  {
+    "pokemonSize": 981,
+    "trainerSize": 2,
+    "longName": "Berlin",
+    "shortName": "Berlin"
+  },
+  {
+    "pokemonSize": 2138,
+    "trainerSize": 4,
+    "longName": "São Paulo",
+    "shortName": "São Paulo"
+  },
+  {
+    "pokemonSize": 2138,
+    "trainerSize": 4,
+    "longName": "São Paulo",
+    "shortName": "São Paulo"
+  },
+  {
+    "pokemonSize": 2138,
+    "trainerSize": 4,
+    "longName": "State of São Paulo",
+    "shortName": "SP"
+  },
+  {
+    "pokemonSize": 2138,
+    "trainerSize": 4,
+    "longName": "Brazil",
+    "shortName": "BR"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Imsil-gun",
+    "shortName": "Imsil-gun"
+  },
+  {
+    "pokemonSize": 1750,
+    "trainerSize": 3,
+    "longName": "Jeollabuk-do",
+    "shortName": "Jeollabuk-do"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Kita Ward",
+    "shortName": "Kita Ward"
+  },
+  {
+    "pokemonSize": 2,
+    "trainerSize": 1,
+    "longName": "Saitama",
+    "shortName": "Saitama"
+  },
+  {
+    "pokemonSize": 520,
+    "trainerSize": 2,
+    "longName": "Saitama Prefecture",
+    "shortName": "Saitama Prefecture"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Di An",
+    "shortName": "Di An"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Bình Dương",
+    "shortName": "Bình Dương"
+  },
+  {
+    "pokemonSize": 236,
+    "trainerSize": 1,
+    "longName": "Yangpyeong-gun",
+    "shortName": "Yangpyeong-gun"
+  },
+  {
+    "pokemonSize": 637,
+    "trainerSize": 2,
+    "longName": "Indianapolis",
+    "shortName": "Indianapolis"
+  },
+  {
+    "pokemonSize": 637,
+    "trainerSize": 2,
+    "longName": "Marion County",
+    "shortName": "Marion County"
+  },
+  {
+    "pokemonSize": 637,
+    "trainerSize": 2,
+    "longName": "Indiana",
+    "shortName": "IN"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Minxiong",
+    "shortName": "Minxiong"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "北斗村",
+    "shortName": "北斗村"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Minxiong Township",
+    "shortName": "Minxiong Township"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Chiayi County",
+    "shortName": "Chiayi County"
+  },
+  {
+    "pokemonSize": 622,
+    "trainerSize": 4,
+    "longName": "Taiwan Province",
+    "shortName": "Taiwan Province"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "621",
+    "shortName": "621"
+  },
+  {
+    "pokemonSize": 548,
+    "trainerSize": 3,
+    "longName": "Naha",
+    "shortName": "Naha"
+  },
+  {
+    "pokemonSize": 1368,
+    "trainerSize": 4,
+    "longName": "Toronto",
+    "shortName": "Toronto"
+  },
+  {
+    "pokemonSize": 1368,
+    "trainerSize": 4,
+    "longName": "Toronto Division",
+    "shortName": "Toronto Division"
+  },
+  {
+    "pokemonSize": 2254,
+    "trainerSize": 7,
+    "longName": "Ontario",
+    "shortName": "ON"
+  },
+  {
+    "pokemonSize": 578,
+    "trainerSize": 2,
+    "longName": "The Rocks",
+    "shortName": "The Rocks"
+  },
+  {
+    "pokemonSize": 3828,
+    "trainerSize": 9,
+    "longName": "Council of the City of Sydney",
+    "shortName": "Sydney"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Okaya",
+    "shortName": "Okaya"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Nagano Prefecture",
+    "shortName": "Nagano Prefecture"
+  },
+  {
+    "pokemonSize": 1252,
+    "trainerSize": 1,
+    "longName": "New Malden",
+    "shortName": "New Malden"
+  },
+  {
+    "pokemonSize": 1252,
+    "trainerSize": 1,
+    "longName": "Royal Borough of Kingston upon Thames",
+    "shortName": "Royal Borough of Kingston upon Thames"
+  },
+  {
+    "pokemonSize": 1041,
+    "trainerSize": 1,
+    "longName": "Arlington",
+    "shortName": "Arlington"
+  },
+  {
+    "pokemonSize": 1041,
+    "trainerSize": 1,
+    "longName": "Arlington County",
+    "shortName": "Arlington County"
+  },
+  {
+    "pokemonSize": 1709,
+    "trainerSize": 4,
+    "longName": "Virginia",
+    "shortName": "VA"
+  },
+  {
+    "pokemonSize": 2536,
+    "trainerSize": 6,
+    "longName": "Melbourne",
+    "shortName": "Melbourne"
+  },
+  {
+    "pokemonSize": 2536,
+    "trainerSize": 6,
+    "longName": "3004",
+    "shortName": "3004"
+  },
+  {
+    "pokemonSize": 3414,
+    "trainerSize": 7,
+    "longName": "Chiyoda",
+    "shortName": "Chiyoda"
+  },
+  {
+    "pokemonSize": 46,
+    "trainerSize": 2,
+    "longName": "Namyangju-si",
+    "shortName": "Namyangju-si"
+  },
+  {
+    "pokemonSize": 2734,
+    "trainerSize": 5,
+    "longName": "Kuala Lumpur",
+    "shortName": "Kuala Lumpur"
+  },
+  {
+    "pokemonSize": 2734,
+    "trainerSize": 5,
+    "longName": "Federal Territory of Kuala Lumpur",
+    "shortName": "Federal Territory of Kuala Lumpur"
+  },
+  {
+    "pokemonSize": 1115,
+    "trainerSize": 2,
+    "longName": "Sydney",
+    "shortName": "Sydney"
+  },
+  {
+    "pokemonSize": 595,
+    "trainerSize": 2,
+    "longName": "Epping",
+    "shortName": "Epping"
+  },
+  {
+    "pokemonSize": 595,
+    "trainerSize": 2,
+    "longName": "2121",
+    "shortName": "2121"
+  },
+  {
+    "pokemonSize": 503,
+    "trainerSize": 2,
+    "longName": "Newington",
+    "shortName": "Newington"
+  },
+  {
+    "pokemonSize": 1408,
+    "trainerSize": 3,
+    "longName": "Auburn City Council",
+    "shortName": "Auburn"
+  },
+  {
+    "pokemonSize": 503,
+    "trainerSize": 2,
+    "longName": "2127",
+    "shortName": "2127"
+  },
+  {
+    "pokemonSize": 620,
+    "trainerSize": 2,
+    "longName": "Tamuning",
+    "shortName": "Tamuning"
+  },
+  {
+    "pokemonSize": 620,
+    "trainerSize": 2,
+    "longName": "Guam",
+    "shortName": "GU"
+  },
+  {
+    "pokemonSize": 5404,
+    "trainerSize": 18,
+    "longName": "Goseong-gun",
+    "shortName": "Goseong-gun"
+  },
+  {
+    "pokemonSize": 396,
+    "trainerSize": 1,
+    "longName": "Harbin",
+    "shortName": "Harbin"
+  },
+  {
+    "pokemonSize": 396,
+    "trainerSize": 1,
+    "longName": "Heilongjiang",
+    "shortName": "Heilongjiang"
+  },
+  {
+    "pokemonSize": 396,
+    "trainerSize": 1,
+    "longName": "China",
+    "shortName": "CN"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Kings Park",
+    "shortName": "Kings Park"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "City of Perth",
+    "shortName": "Perth"
+  },
+  {
+    "pokemonSize": 1433,
+    "trainerSize": 2,
+    "longName": "Western Australia",
+    "shortName": "WA"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "6005",
+    "shortName": "6005"
+  },
+  {
+    "pokemonSize": 643,
+    "trainerSize": 1,
+    "longName": "Southport",
+    "shortName": "Southport"
+  },
+  {
+    "pokemonSize": 2166,
+    "trainerSize": 2,
+    "longName": "Gold Coast City",
+    "shortName": "Gold Coast"
+  },
+  {
+    "pokemonSize": 643,
+    "trainerSize": 1,
+    "longName": "4215",
+    "shortName": "4215"
+  },
+  {
+    "pokemonSize": 2324,
+    "trainerSize": 3,
+    "longName": "Buenos Aires",
+    "shortName": "CABA"
+  },
+  {
+    "pokemonSize": 2324,
+    "trainerSize": 3,
+    "longName": "Autonomous City of Buenos Aires",
+    "shortName": "CABA"
+  },
+  {
+    "pokemonSize": 2324,
+    "trainerSize": 3,
+    "longName": "Argentina",
+    "shortName": "AR"
+  },
+  {
+    "pokemonSize": 1332,
+    "trainerSize": 1,
+    "longName": "Puchong",
+    "shortName": "Puchong"
+  },
+  {
+    "pokemonSize": 654,
+    "trainerSize": 1,
+    "longName": "Gotenba",
+    "shortName": "Gotenba"
+  },
+  {
+    "pokemonSize": 654,
+    "trainerSize": 1,
+    "longName": "Shizuoka Prefecture",
+    "shortName": "Shizuoka Prefecture"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Lisbon",
+    "shortName": "Lisbon"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Lisbon",
+    "shortName": "Lisbon"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Portugal",
+    "shortName": "PT"
+  },
+  {
+    "pokemonSize": 1326,
+    "trainerSize": 3,
+    "longName": "Gimhae-si",
+    "shortName": "Gimhae-si"
+  },
+  {
+    "pokemonSize": 5730,
+    "trainerSize": 14,
+    "longName": "Gyeongsangnam-do",
+    "shortName": "Gyeongsangnam-do"
+  },
+  {
+    "pokemonSize": 458,
+    "trainerSize": 1,
+    "longName": "Centreville",
+    "shortName": "Centreville"
+  },
+  {
+    "pokemonSize": 458,
+    "trainerSize": 1,
+    "longName": "Sully",
+    "shortName": "Sully"
+  },
+  {
+    "pokemonSize": 458,
+    "trainerSize": 1,
+    "longName": "Fairfax County",
+    "shortName": "Fairfax County"
+  },
+  {
+    "pokemonSize": 483,
+    "trainerSize": 2,
+    "longName": "Austin",
+    "shortName": "Austin"
+  },
+  {
+    "pokemonSize": 483,
+    "trainerSize": 2,
+    "longName": "Travis County",
+    "shortName": "Travis County"
+  },
+  {
+    "pokemonSize": 1960,
+    "trainerSize": 7,
+    "longName": "Texas",
+    "shortName": "TX"
+  },
+  {
+    "pokemonSize": 204,
+    "trainerSize": 1,
+    "longName": "Nong Pla Lai",
+    "shortName": "Nong Pla Lai"
+  },
+  {
+    "pokemonSize": 1470,
+    "trainerSize": 5,
+    "longName": "Bang Lamung District",
+    "shortName": "อ.บางละมุง"
+  },
+  {
+    "pokemonSize": 1685,
+    "trainerSize": 6,
+    "longName": "Chon Buri",
+    "shortName": "จ.ชลบุรี"
+  },
+  {
+    "pokemonSize": 1470,
+    "trainerSize": 5,
+    "longName": "20150",
+    "shortName": "20150"
+  },
+  {
+    "pokemonSize": 277,
+    "trainerSize": 1,
+    "longName": "tp. Vĩnh Yên",
+    "shortName": "tp. Vĩnh Yên"
+  },
+  {
+    "pokemonSize": 277,
+    "trainerSize": 1,
+    "longName": "Vĩnh Phúc",
+    "shortName": "Vĩnh Phúc"
+  },
+  {
+    "pokemonSize": 107,
+    "trainerSize": 1,
+    "longName": "Swidnica",
+    "shortName": "Swidnica"
+  },
+  {
+    "pokemonSize": 107,
+    "trainerSize": 1,
+    "longName": "Świdnica",
+    "shortName": "Świdnica"
+  },
+  {
+    "pokemonSize": 107,
+    "trainerSize": 1,
+    "longName": "Świdnica County",
+    "shortName": "Świdnica County"
+  },
+  {
+    "pokemonSize": 107,
+    "trainerSize": 1,
+    "longName": "Lower Silesian Voivodeship",
+    "shortName": "Lower Silesian Voivodeship"
+  },
+  {
+    "pokemonSize": 575,
+    "trainerSize": 4,
+    "longName": "Poland",
+    "shortName": "PL"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Alicante",
+    "shortName": "Alicante"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Alicante",
+    "shortName": "Alicante"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "L'Alacantí",
+    "shortName": "L'Alacantí"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Alicante",
+    "shortName": "A"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Valencian Community",
+    "shortName": "Valencian Community"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Valencia",
+    "shortName": "Valencia"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Valencia",
+    "shortName": "Valencia"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "L'Horta de València",
+    "shortName": "L'Horta de València"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Valencia",
+    "shortName": "V"
+  },
+  {
+    "pokemonSize": 178,
+    "trainerSize": 1,
+    "longName": "Gongju-si",
+    "shortName": "Gongju-si"
+  },
+  {
+    "pokemonSize": 4793,
+    "trainerSize": 8,
+    "longName": "Chungcheongnam-do",
+    "shortName": "Chungcheongnam-do"
+  },
+  {
+    "pokemonSize": 574,
+    "trainerSize": 1,
+    "longName": "Milan",
+    "shortName": "Milan"
+  },
+  {
+    "pokemonSize": 574,
+    "trainerSize": 1,
+    "longName": "Milan",
+    "shortName": "Milan"
+  },
+  {
+    "pokemonSize": 574,
+    "trainerSize": 1,
+    "longName": "Metropolitan City of Milan",
+    "shortName": "MI"
+  },
+  {
+    "pokemonSize": 574,
+    "trainerSize": 1,
+    "longName": "Lombardy",
+    "shortName": "Lombardy"
+  },
+  {
+    "pokemonSize": 1037,
+    "trainerSize": 3,
+    "longName": "San Francisco",
+    "shortName": "SF"
+  },
+  {
+    "pokemonSize": 1037,
+    "trainerSize": 3,
+    "longName": "San Francisco County",
+    "shortName": "San Francisco County"
+  },
+  {
+    "pokemonSize": 401,
+    "trainerSize": 1,
+    "longName": "Almaty",
+    "shortName": "Almaty"
+  },
+  {
+    "pokemonSize": 401,
+    "trainerSize": 1,
+    "longName": "Karasay District",
+    "shortName": "Karasay District"
+  },
+  {
+    "pokemonSize": 401,
+    "trainerSize": 1,
+    "longName": "Almaty Region",
+    "shortName": "Almaty Region"
+  },
+  {
+    "pokemonSize": 401,
+    "trainerSize": 1,
+    "longName": "Kazakhstan",
+    "shortName": "KZ"
+  },
+  {
+    "pokemonSize": 1166,
+    "trainerSize": 3,
+    "longName": "Shinagawa",
+    "shortName": "Shinagawa"
+  },
+  {
+    "pokemonSize": 3383,
+    "trainerSize": 4,
+    "longName": "Chicago",
+    "shortName": "Chicago"
+  },
+  {
+    "pokemonSize": 3383,
+    "trainerSize": 4,
+    "longName": "Cook County",
+    "shortName": "Cook County"
+  },
+  {
+    "pokemonSize": 3383,
+    "trainerSize": 4,
+    "longName": "Illinois",
+    "shortName": "IL"
+  },
+  {
+    "pokemonSize": 265,
+    "trainerSize": 1,
+    "longName": "Hualien",
+    "shortName": "Hualien"
+  },
+  {
+    "pokemonSize": 265,
+    "trainerSize": 1,
+    "longName": "Hualien County",
+    "shortName": "Hualien County"
+  },
+  {
+    "pokemonSize": 2563,
+    "trainerSize": 7,
+    "longName": "Yangsan-si",
+    "shortName": "Yangsan-si"
+  },
+  {
+    "pokemonSize": 970,
+    "trainerSize": 2,
+    "longName": "Donghae-si",
+    "shortName": "Donghae-si"
+  },
+  {
+    "pokemonSize": 330,
+    "trainerSize": 2,
+    "longName": "Carrollton",
+    "shortName": "Carrollton"
+  },
+  {
+    "pokemonSize": 753,
+    "trainerSize": 3,
+    "longName": "Dallas County",
+    "shortName": "Dallas County"
+  },
+  {
+    "pokemonSize": 2240,
+    "trainerSize": 5,
+    "longName": "Paju-si",
+    "shortName": "Paju-si"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Mielec",
+    "shortName": "Mielec"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Gmina Mielec",
+    "shortName": "Gmina Mielec"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Mielec County",
+    "shortName": "Mielec County"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Podkarpackie Voivodeship",
+    "shortName": "Podkarpackie Voivodeship"
+  },
+  {
+    "pokemonSize": 254,
+    "trainerSize": 1,
+    "longName": "Netanya",
+    "shortName": "Netanya"
+  },
+  {
+    "pokemonSize": 1310,
+    "trainerSize": 2,
+    "longName": "HaSharon",
+    "shortName": "HaSharon"
+  },
+  {
+    "pokemonSize": 254,
+    "trainerSize": 1,
+    "longName": "Center District",
+    "shortName": "Center District"
+  },
+  {
+    "pokemonSize": 532,
+    "trainerSize": 1,
+    "longName": "Asuncion",
+    "shortName": "Asuncion"
+  },
+  {
+    "pokemonSize": 532,
+    "trainerSize": 1,
+    "longName": "Paraguay",
+    "shortName": "PY"
+  },
+  {
+    "pokemonSize": 1388,
+    "trainerSize": 5,
+    "longName": "Santa Monica",
+    "shortName": "Santa Monica"
+  },
+  {
+    "pokemonSize": 670,
+    "trainerSize": 2,
+    "longName": "Perugia",
+    "shortName": "Perugia"
+  },
+  {
+    "pokemonSize": 670,
+    "trainerSize": 2,
+    "longName": "Perugia",
+    "shortName": "Perugia"
+  },
+  {
+    "pokemonSize": 670,
+    "trainerSize": 2,
+    "longName": "Province of Perugia",
+    "shortName": "PG"
+  },
+  {
+    "pokemonSize": 670,
+    "trainerSize": 2,
+    "longName": "Umbria",
+    "shortName": "Umbria"
+  },
+  {
+    "pokemonSize": 334,
+    "trainerSize": 1,
+    "longName": "Sandton",
+    "shortName": "Sandton"
+  },
+  {
+    "pokemonSize": 334,
+    "trainerSize": 1,
+    "longName": "Greater Johannesburg Metropolitan Area",
+    "shortName": "Greater Johannesburg Metropolitan Area"
+  },
+  {
+    "pokemonSize": 334,
+    "trainerSize": 1,
+    "longName": "City of Johannesburg Metropolitan Municipality",
+    "shortName": "City of Johannesburg Metropolitan Municipality"
+  },
+  {
+    "pokemonSize": 334,
+    "trainerSize": 1,
+    "longName": "Gauteng",
+    "shortName": "GP"
+  },
+  {
+    "pokemonSize": 334,
+    "trainerSize": 1,
+    "longName": "South Africa",
+    "shortName": "ZA"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Miryang-si",
+    "shortName": "Miryang-si"
+  },
+  {
+    "pokemonSize": 210,
+    "trainerSize": 2,
+    "longName": "Fairfax",
+    "shortName": "Fairfax"
+  },
+  {
+    "pokemonSize": 378,
+    "trainerSize": 1,
+    "longName": "Redfern",
+    "shortName": "Redfern"
+  },
+  {
+    "pokemonSize": 378,
+    "trainerSize": 1,
+    "longName": "2016",
+    "shortName": "2016"
+  },
+  {
+    "pokemonSize": 1909,
+    "trainerSize": 2,
+    "longName": "Wiang Phang Kham",
+    "shortName": "Wiang Phang Kham"
+  },
+  {
+    "pokemonSize": 1909,
+    "trainerSize": 2,
+    "longName": "Mae Sai District",
+    "shortName": "อ.แม่สาย"
+  },
+  {
+    "pokemonSize": 1909,
+    "trainerSize": 2,
+    "longName": "Chiang Rai",
+    "shortName": "จ.เชียงราย"
+  },
+  {
+    "pokemonSize": 348,
+    "trainerSize": 2,
+    "longName": "Pattaya",
+    "shortName": "Pattaya"
+  },
+  {
+    "pokemonSize": 23,
+    "trainerSize": 1,
+    "longName": "Nerima",
+    "shortName": "Nerima"
+  },
+  {
+    "pokemonSize": 2408,
+    "trainerSize": 4,
+    "longName": "Cheonan-si",
+    "shortName": "Cheonan-si"
+  },
+  {
+    "pokemonSize": 295,
+    "trainerSize": 1,
+    "longName": "Oakville",
+    "shortName": "Oakville"
+  },
+  {
+    "pokemonSize": 295,
+    "trainerSize": 1,
+    "longName": "Halton Regional Municipality",
+    "shortName": "Halton Regional Municipality"
+  },
+  {
+    "pokemonSize": 694,
+    "trainerSize": 1,
+    "longName": "New Westminster",
+    "shortName": "New Westminster"
+  },
+  {
+    "pokemonSize": 1182,
+    "trainerSize": 3,
+    "longName": "Greater Vancouver",
+    "shortName": "Greater Vancouver"
+  },
+  {
+    "pokemonSize": 909,
+    "trainerSize": 2,
+    "longName": "South Jakarta",
+    "shortName": "South Jakarta"
+  },
+  {
+    "pokemonSize": 909,
+    "trainerSize": 2,
+    "longName": "South Jakarta City",
+    "shortName": "South Jakarta City"
+  },
+  {
+    "pokemonSize": 909,
+    "trainerSize": 2,
+    "longName": "Special Capital Region of Jakarta",
+    "shortName": "Special Capital Region of Jakarta"
+  },
+  {
+    "pokemonSize": 2325,
+    "trainerSize": 4,
+    "longName": "Indonesia",
+    "shortName": "ID"
+  },
+  {
+    "pokemonSize": 358,
+    "trainerSize": 3,
+    "longName": "Honolulu",
+    "shortName": "Honolulu"
+  },
+  {
+    "pokemonSize": 685,
+    "trainerSize": 4,
+    "longName": "Honolulu County",
+    "shortName": "Honolulu County"
+  },
+  {
+    "pokemonSize": 685,
+    "trainerSize": 4,
+    "longName": "Hawaii",
+    "shortName": "HI"
+  },
+  {
+    "pokemonSize": 182,
+    "trainerSize": 1,
+    "longName": "Iwakuni",
+    "shortName": "Iwakuni"
+  },
+  {
+    "pokemonSize": 182,
+    "trainerSize": 1,
+    "longName": "Yamaguchi Prefecture",
+    "shortName": "Yamaguchi Prefecture"
+  },
+  {
+    "pokemonSize": 601,
+    "trainerSize": 1,
+    "longName": "Santa Rosa",
+    "shortName": "Sta. Rosa"
+  },
+  {
+    "pokemonSize": 1238,
+    "trainerSize": 3,
+    "longName": "Laguna",
+    "shortName": "Laguna"
+  },
+  {
+    "pokemonSize": 1238,
+    "trainerSize": 3,
+    "longName": "Calabarzon",
+    "shortName": "Calabarzon"
+  },
+  {
+    "pokemonSize": 601,
+    "trainerSize": 1,
+    "longName": "4026",
+    "shortName": "4026"
+  },
+  {
+    "pokemonSize": 7815,
+    "trainerSize": 14,
+    "longName": "Uijeongbu-si",
+    "shortName": "Uijeongbu-si"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Suginami",
+    "shortName": "Suginami"
+  },
+  {
+    "pokemonSize": 488,
+    "trainerSize": 1,
+    "longName": "Surabaya",
+    "shortName": "Surabaya"
+  },
+  {
+    "pokemonSize": 488,
+    "trainerSize": 1,
+    "longName": "Surabaya City",
+    "shortName": "Surabaya City"
+  },
+  {
+    "pokemonSize": 488,
+    "trainerSize": 1,
+    "longName": "East Java",
+    "shortName": "East Java"
+  },
+  {
+    "pokemonSize": 282,
+    "trainerSize": 1,
+    "longName": "Cordova",
+    "shortName": "Cordova"
+  },
+  {
+    "pokemonSize": 8689,
+    "trainerSize": 7,
+    "longName": "Meguro",
+    "shortName": "Meguro"
+  },
+  {
+    "pokemonSize": 581,
+    "trainerSize": 1,
+    "longName": "Koto",
+    "shortName": "Koto"
+  },
+  {
+    "pokemonSize": 225,
+    "trainerSize": 1,
+    "longName": "Yangon",
+    "shortName": "Yangon"
+  },
+  {
+    "pokemonSize": 225,
+    "trainerSize": 1,
+    "longName": "Yangon Region",
+    "shortName": "Yangon Region"
+  },
+  {
+    "pokemonSize": 225,
+    "trainerSize": 1,
+    "longName": "Myanmar (Burma)",
+    "shortName": "MM"
+  },
+  {
+    "pokemonSize": 635,
+    "trainerSize": 2,
+    "longName": "Baguio",
+    "shortName": "Baguio"
+  },
+  {
+    "pokemonSize": 635,
+    "trainerSize": 2,
+    "longName": "Benguet",
+    "shortName": "Benguet"
+  },
+  {
+    "pokemonSize": 635,
+    "trainerSize": 2,
+    "longName": "Cordillera Administrative Region",
+    "shortName": "CAR"
+  },
+  {
+    "pokemonSize": 859,
+    "trainerSize": 1,
+    "longName": "Cusco",
+    "shortName": "Cusco"
+  },
+  {
+    "pokemonSize": 859,
+    "trainerSize": 1,
+    "longName": "Cusco",
+    "shortName": "Cusco"
+  },
+  {
+    "pokemonSize": 859,
+    "trainerSize": 1,
+    "longName": "Cusco",
+    "shortName": "Cusco"
+  },
+  {
+    "pokemonSize": 926,
+    "trainerSize": 2,
+    "longName": "Peru",
+    "shortName": "PE"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Doha",
+    "shortName": "Doha"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Doha",
+    "shortName": "Doha"
+  },
+  {
+    "pokemonSize": 2353,
+    "trainerSize": 2,
+    "longName": "Qatar",
+    "shortName": "QA"
+  },
+  {
+    "pokemonSize": 10,
+    "trainerSize": 1,
+    "longName": "Ban Chang",
+    "shortName": "Ban Chang"
+  },
+  {
+    "pokemonSize": 10,
+    "trainerSize": 1,
+    "longName": "Ban Chang District",
+    "shortName": "อ. บ้านฉาง"
+  },
+  {
+    "pokemonSize": 1595,
+    "trainerSize": 1,
+    "longName": "Philadelphia",
+    "shortName": "Philadelphia"
+  },
+  {
+    "pokemonSize": 1595,
+    "trainerSize": 1,
+    "longName": "Philadelphia County",
+    "shortName": "Philadelphia County"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Kasugai",
+    "shortName": "Kasugai"
+  },
+  {
+    "pokemonSize": 283,
+    "trainerSize": 1,
+    "longName": "South Brisbane",
+    "shortName": "South Brisbane"
+  },
+  {
+    "pokemonSize": 283,
+    "trainerSize": 1,
+    "longName": "4101",
+    "shortName": "4101"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Rio de Janeiro",
+    "shortName": "Rio de Janeiro"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Rio de Janeiro",
+    "shortName": "Rio de Janeiro"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "State of Rio de Janeiro",
+    "shortName": "RJ"
+  },
+  {
+    "pokemonSize": 269,
+    "trainerSize": 1,
+    "longName": "Poznań",
+    "shortName": "Poznań"
+  },
+  {
+    "pokemonSize": 269,
+    "trainerSize": 1,
+    "longName": "Poznań",
+    "shortName": "Poznań"
+  },
+  {
+    "pokemonSize": 269,
+    "trainerSize": 1,
+    "longName": "Poznań County",
+    "shortName": "Poznań County"
+  },
+  {
+    "pokemonSize": 269,
+    "trainerSize": 1,
+    "longName": "Greater Poland Voivodeship",
+    "shortName": "Greater Poland Voivodeship"
+  },
+  {
+    "pokemonSize": 307,
+    "trainerSize": 3,
+    "longName": "Siheung-si",
+    "shortName": "Siheung-si"
+  },
+  {
+    "pokemonSize": 379,
+    "trainerSize": 1,
+    "longName": "Gümüştepe Mahallesi",
+    "shortName": "Gümüştepe"
+  },
+  {
+    "pokemonSize": 379,
+    "trainerSize": 1,
+    "longName": "Gümüştepe Mahallesi",
+    "shortName": "Gümüştepe"
+  },
+  {
+    "pokemonSize": 379,
+    "trainerSize": 1,
+    "longName": "Nilüfer",
+    "shortName": "Nilüfer"
+  },
+  {
+    "pokemonSize": 379,
+    "trainerSize": 1,
+    "longName": "Bursa",
+    "shortName": "Bursa"
+  },
+  {
+    "pokemonSize": 379,
+    "trainerSize": 1,
+    "longName": "Turkey",
+    "shortName": "TR"
+  },
+  {
+    "pokemonSize": 379,
+    "trainerSize": 1,
+    "longName": "16110",
+    "shortName": "16110"
+  },
+  {
+    "pokemonSize": 142,
+    "trainerSize": 1,
+    "longName": "Prague",
+    "shortName": "Prague"
+  },
+  {
+    "pokemonSize": 142,
+    "trainerSize": 1,
+    "longName": "Hlavní město Praha",
+    "shortName": "Hlavní město Praha"
+  },
+  {
+    "pokemonSize": 142,
+    "trainerSize": 1,
+    "longName": "Prague",
+    "shortName": "Prague"
+  },
+  {
+    "pokemonSize": 142,
+    "trainerSize": 1,
+    "longName": "Czech Republic",
+    "shortName": "CZ"
+  },
+  {
+    "pokemonSize": 1240,
+    "trainerSize": 1,
+    "longName": "Seongju-gun",
+    "shortName": "Seongju-gun"
+  },
+  {
+    "pokemonSize": 266,
+    "trainerSize": 1,
+    "longName": "Edogawa",
+    "shortName": "Edogawa"
+  },
+  {
+    "pokemonSize": 2152,
+    "trainerSize": 6,
+    "longName": "Taipei",
+    "shortName": "Taipei"
+  },
+  {
+    "pokemonSize": 372,
+    "trainerSize": 1,
+    "longName": "Winnipeg",
+    "shortName": "Winnipeg"
+  },
+  {
+    "pokemonSize": 372,
+    "trainerSize": 1,
+    "longName": "Division No. 11",
+    "shortName": "Division No. 11"
+  },
+  {
+    "pokemonSize": 372,
+    "trainerSize": 1,
+    "longName": "Manitoba",
+    "shortName": "MB"
+  },
+  {
+    "pokemonSize": 990,
+    "trainerSize": 2,
+    "longName": "Urayasu",
+    "shortName": "Urayasu"
+  },
+  {
+    "pokemonSize": 117,
+    "trainerSize": 1,
+    "longName": "Vientiane",
+    "shortName": "Vientiane"
+  },
+  {
+    "pokemonSize": 117,
+    "trainerSize": 1,
+    "longName": "Vientiane Prefecture",
+    "shortName": "เวียงจันทน์"
+  },
+  {
+    "pokemonSize": 117,
+    "trainerSize": 1,
+    "longName": "Laos",
+    "shortName": "LA"
+  },
+  {
+    "pokemonSize": 640,
+    "trainerSize": 1,
+    "longName": "Petaluma",
+    "shortName": "Petaluma"
+  },
+  {
+    "pokemonSize": 640,
+    "trainerSize": 1,
+    "longName": "Sonoma County",
+    "shortName": "Sonoma County"
+  },
+  {
+    "pokemonSize": 195,
+    "trainerSize": 1,
+    "longName": "Elizabeth Bay",
+    "shortName": "Elizabeth Bay"
+  },
+  {
+    "pokemonSize": 195,
+    "trainerSize": 1,
+    "longName": "2011",
+    "shortName": "2011"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Maryland City",
+    "shortName": "Maryland City"
+  },
+  {
+    "pokemonSize": 771,
+    "trainerSize": 1,
+    "longName": "Hanover",
+    "shortName": "Hanover"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Anne Arundel County",
+    "shortName": "Anne Arundel County"
+  },
+  {
+    "pokemonSize": 1343,
+    "trainerSize": 2,
+    "longName": "Maryland",
+    "shortName": "MD"
+  },
+  {
+    "pokemonSize": 1720,
+    "trainerSize": 2,
+    "longName": "Arakawa",
+    "shortName": "Arakawa"
+  },
+  {
+    "pokemonSize": 282,
+    "trainerSize": 1,
+    "longName": "Berkeley",
+    "shortName": "Berkeley"
+  },
+  {
+    "pokemonSize": 329,
+    "trainerSize": 2,
+    "longName": "Alameda County",
+    "shortName": "Alameda County"
+  },
+  {
+    "pokemonSize": 47,
+    "trainerSize": 1,
+    "longName": "Fremont",
+    "shortName": "Fremont"
+  },
+  {
+    "pokemonSize": 2353,
+    "trainerSize": 2,
+    "longName": "Ad-Daẖirah",
+    "shortName": "Ad-Daẖirah"
+  },
+  {
+    "pokemonSize": 2353,
+    "trainerSize": 2,
+    "longName": "Al Khor",
+    "shortName": "Al Khor"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Pyeongchang-gun",
+    "shortName": "Pyeongchang-gun"
+  },
+  {
+    "pokemonSize": 303,
+    "trainerSize": 1,
+    "longName": "Subang Jaya",
+    "shortName": "Subang Jaya"
+  },
+  {
+    "pokemonSize": 303,
+    "trainerSize": 1,
+    "longName": "Damansara",
+    "shortName": "Damansara"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Miyakojima Ward",
+    "shortName": "Miyakojima Ward"
+  },
+  {
+    "pokemonSize": 1314,
+    "trainerSize": 1,
+    "longName": "Seosan-si",
+    "shortName": "Seosan-si"
+  },
+  {
+    "pokemonSize": 878,
+    "trainerSize": 3,
+    "longName": "Los Angeles",
+    "shortName": "Los Angeles"
+  },
+  {
+    "pokemonSize": 784,
+    "trainerSize": 1,
+    "longName": "Jeju-si",
+    "shortName": "Jeju-si"
+  },
+  {
+    "pokemonSize": 784,
+    "trainerSize": 1,
+    "longName": "Jeju-do",
+    "shortName": "Jeju-do"
+  },
+  {
+    "pokemonSize": 645,
+    "trainerSize": 2,
+    "longName": "Valley",
+    "shortName": "Valley"
+  },
+  {
+    "pokemonSize": 645,
+    "trainerSize": 2,
+    "longName": "Chambers County",
+    "shortName": "Chambers County"
+  },
+  {
+    "pokemonSize": 1437,
+    "trainerSize": 4,
+    "longName": "Alabama",
+    "shortName": "AL"
+  },
+  {
+    "pokemonSize": 910,
+    "trainerSize": 3,
+    "longName": "36854",
+    "shortName": "36854"
+  },
+  {
+    "pokemonSize": 394,
+    "trainerSize": 1,
+    "longName": "Millers Point",
+    "shortName": "Millers Point"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Hakata Ward",
+    "shortName": "Hakata Ward"
+  },
+  {
+    "pokemonSize": 1226,
+    "trainerSize": 3,
+    "longName": "Fukuoka",
+    "shortName": "Fukuoka"
+  },
+  {
+    "pokemonSize": 565,
+    "trainerSize": 1,
+    "longName": "Yufu",
+    "shortName": "Yufu"
+  },
+  {
+    "pokemonSize": 1085,
+    "trainerSize": 3,
+    "longName": "Oita Prefecture",
+    "shortName": "Oita Prefecture"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Pasig",
+    "shortName": "Pasig"
+  },
+  {
+    "pokemonSize": 17,
+    "trainerSize": 1,
+    "longName": "Moscow",
+    "shortName": "Moscow"
+  },
+  {
+    "pokemonSize": 17,
+    "trainerSize": 1,
+    "longName": "gorod Moskva",
+    "shortName": "g. Moskva"
+  },
+  {
+    "pokemonSize": 17,
+    "trainerSize": 1,
+    "longName": "Moscow",
+    "shortName": "Moscow"
+  },
+  {
+    "pokemonSize": 17,
+    "trainerSize": 1,
+    "longName": "Russia",
+    "shortName": "RU"
+  },
+  {
+    "pokemonSize": 1426,
+    "trainerSize": 3,
+    "longName": "Pyrmont",
+    "shortName": "Pyrmont"
+  },
+  {
+    "pokemonSize": 1426,
+    "trainerSize": 3,
+    "longName": "2009",
+    "shortName": "2009"
+  },
+  {
+    "pokemonSize": 151,
+    "trainerSize": 2,
+    "longName": "Izumisano",
+    "shortName": "Izumisano"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Phuket",
+    "shortName": "Phuket"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Mueang Phuket District",
+    "shortName": "Mueang Phuket District"
+  },
+  {
+    "pokemonSize": 1447,
+    "trainerSize": 3,
+    "longName": "Phuket",
+    "shortName": "จ.ภูเก็ต"
+  },
+  {
+    "pokemonSize": 588,
+    "trainerSize": 1,
+    "longName": "83000",
+    "shortName": "83000"
+  },
+  {
+    "pokemonSize": 173,
+    "trainerSize": 1,
+    "longName": "Gurgaon",
+    "shortName": "Gurgaon"
+  },
+  {
+    "pokemonSize": 173,
+    "trainerSize": 1,
+    "longName": "Gurgaon",
+    "shortName": "Gurgaon"
+  },
+  {
+    "pokemonSize": 173,
+    "trainerSize": 1,
+    "longName": "Haryana",
+    "shortName": "HR"
+  },
+  {
+    "pokemonSize": 173,
+    "trainerSize": 1,
+    "longName": "122001",
+    "shortName": "122001"
+  },
+  {
+    "pokemonSize": 308,
+    "trainerSize": 1,
+    "longName": "Ebina",
+    "shortName": "Ebina"
+  },
+  {
+    "pokemonSize": 126,
+    "trainerSize": 1,
+    "longName": "Gwangmyeong-si",
+    "shortName": "Gwangmyeong-si"
+  },
+  {
+    "pokemonSize": 218,
+    "trainerSize": 1,
+    "longName": "Sibu",
+    "shortName": "Sibu"
+  },
+  {
+    "pokemonSize": 218,
+    "trainerSize": 1,
+    "longName": "Sarawak",
+    "shortName": "Sarawak"
+  },
+  {
+    "pokemonSize": 110,
+    "trainerSize": 1,
+    "longName": "Icheon-si",
+    "shortName": "Icheon-si"
+  },
+  {
+    "pokemonSize": 336,
+    "trainerSize": 1,
+    "longName": "Orlando",
+    "shortName": "Orlando"
+  },
+  {
+    "pokemonSize": 336,
+    "trainerSize": 1,
+    "longName": "Florida",
+    "shortName": "FL"
+  },
+  {
+    "pokemonSize": 343,
+    "trainerSize": 1,
+    "longName": "Taichung",
+    "shortName": "Taichung"
+  },
+  {
+    "pokemonSize": 343,
+    "trainerSize": 1,
+    "longName": "五常里",
+    "shortName": "五常里"
+  },
+  {
+    "pokemonSize": 343,
+    "trainerSize": 1,
+    "longName": "North District",
+    "shortName": "North District"
+  },
+  {
+    "pokemonSize": 343,
+    "trainerSize": 1,
+    "longName": "Taichung City",
+    "shortName": "Taichung City"
+  },
+  {
+    "pokemonSize": 1113,
+    "trainerSize": 1,
+    "longName": "Düsseldorf",
+    "shortName": "Düsseldorf"
+  },
+  {
+    "pokemonSize": 1113,
+    "trainerSize": 1,
+    "longName": "Düsseldorf",
+    "shortName": "Düsseldorf"
+  },
+  {
+    "pokemonSize": 1548,
+    "trainerSize": 4,
+    "longName": "North Rhine-Westphalia",
+    "shortName": "NRW"
+  },
+  {
+    "pokemonSize": 853,
+    "trainerSize": 1,
+    "longName": "Gunsan-si",
+    "shortName": "Gunsan-si"
+  },
+  {
+    "pokemonSize": 555,
+    "trainerSize": 2,
+    "longName": "Jinju-si",
+    "shortName": "Jinju-si"
+  },
+  {
+    "pokemonSize": 654,
+    "trainerSize": 3,
+    "longName": "Gumi-si",
+    "shortName": "Gumi-si"
+  },
+  {
+    "pokemonSize": 588,
+    "trainerSize": 2,
+    "longName": "tx. Từ Sơn",
+    "shortName": "tx. Từ Sơn"
+  },
+  {
+    "pokemonSize": 1644,
+    "trainerSize": 6,
+    "longName": "Bắc Ninh",
+    "shortName": "Bắc Ninh"
+  },
+  {
+    "pokemonSize": 593,
+    "trainerSize": 1,
+    "longName": "Sacheon-si",
+    "shortName": "Sacheon-si"
+  },
+  {
+    "pokemonSize": 1447,
+    "trainerSize": 3,
+    "longName": "Patong",
+    "shortName": "Patong"
+  },
+  {
+    "pokemonSize": 1447,
+    "trainerSize": 3,
+    "longName": "Kathu District",
+    "shortName": "Kathu District"
+  },
+  {
+    "pokemonSize": 182,
+    "trainerSize": 1,
+    "longName": "Chilliwack",
+    "shortName": "Chilliwack"
+  },
+  {
+    "pokemonSize": 182,
+    "trainerSize": 1,
+    "longName": "Fraser Valley",
+    "shortName": "Fraser Valley"
+  },
+  {
+    "pokemonSize": 625,
+    "trainerSize": 2,
+    "longName": "Osan-si",
+    "shortName": "Osan-si"
+  },
+  {
+    "pokemonSize": 1056,
+    "trainerSize": 4,
+    "longName": "tp. Bắc Ninh",
+    "shortName": "tp. Bắc Ninh"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "East Gwillimbury",
+    "shortName": "East Gwillimbury"
+  },
+  {
+    "pokemonSize": 591,
+    "trainerSize": 2,
+    "longName": "York Regional Municipality",
+    "shortName": "York Regional Municipality"
+  },
+  {
+    "pokemonSize": 344,
+    "trainerSize": 1,
+    "longName": "South Melbourne",
+    "shortName": "South Melbourne"
+  },
+  {
+    "pokemonSize": 344,
+    "trainerSize": 1,
+    "longName": "Port Phillip City",
+    "shortName": "Port Phillip"
+  },
+  {
+    "pokemonSize": 344,
+    "trainerSize": 1,
+    "longName": "3205",
+    "shortName": "3205"
+  },
+  {
+    "pokemonSize": 630,
+    "trainerSize": 1,
+    "longName": "Venice",
+    "shortName": "Venice"
+  },
+  {
+    "pokemonSize": 1135,
+    "trainerSize": 2,
+    "longName": "Venice",
+    "shortName": "Venice"
+  },
+  {
+    "pokemonSize": 630,
+    "trainerSize": 1,
+    "longName": "Metropolitan City of Venice",
+    "shortName": "VE"
+  },
+  {
+    "pokemonSize": 630,
+    "trainerSize": 1,
+    "longName": "Veneto",
+    "shortName": "Veneto"
+  },
+  {
+    "pokemonSize": 157,
+    "trainerSize": 1,
+    "longName": "San Juan",
+    "shortName": "San Juan"
+  },
+  {
+    "pokemonSize": 157,
+    "trainerSize": 1,
+    "longName": "San Juan",
+    "shortName": "San Juan"
+  },
+  {
+    "pokemonSize": 157,
+    "trainerSize": 1,
+    "longName": "Puerto Rico",
+    "shortName": "PR"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Ikuno Ward",
+    "shortName": "Ikuno Ward"
+  },
+  {
+    "pokemonSize": 70,
+    "trainerSize": 1,
+    "longName": "Ton Mamuang",
+    "shortName": "Ton Mamuang"
+  },
+  {
+    "pokemonSize": 70,
+    "trainerSize": 1,
+    "longName": "Mueang Phetchaburi District",
+    "shortName": "Mueang Phetchaburi District"
+  },
+  {
+    "pokemonSize": 70,
+    "trainerSize": 1,
+    "longName": "Phetchaburi",
+    "shortName": "จ. เพชรบุรี"
+  },
+  {
+    "pokemonSize": 903,
+    "trainerSize": 1,
+    "longName": "Paris",
+    "shortName": "Paris"
+  },
+  {
+    "pokemonSize": 903,
+    "trainerSize": 1,
+    "longName": "Paris",
+    "shortName": "Paris"
+  },
+  {
+    "pokemonSize": 2037,
+    "trainerSize": 2,
+    "longName": "Île-de-France",
+    "shortName": "Île-de-France"
+  },
+  {
+    "pokemonSize": 637,
+    "trainerSize": 2,
+    "longName": "Los Baños",
+    "shortName": "Los Baños"
+  },
+  {
+    "pokemonSize": 2928,
+    "trainerSize": 4,
+    "longName": "Bunkyo",
+    "shortName": "Bunkyo"
+  },
+  {
+    "pokemonSize": 374,
+    "trainerSize": 2,
+    "longName": "Afetna",
+    "shortName": "Afetna"
+  },
+  {
+    "pokemonSize": 374,
+    "trainerSize": 2,
+    "longName": "Saipan",
+    "shortName": "Saipan"
+  },
+  {
+    "pokemonSize": 374,
+    "trainerSize": 2,
+    "longName": "Northern Mariana Islands",
+    "shortName": "MP"
+  },
+  {
+    "pokemonSize": 374,
+    "trainerSize": 2,
+    "longName": "96950",
+    "shortName": "96950"
+  },
+  {
+    "pokemonSize": 831,
+    "trainerSize": 3,
+    "longName": "Angeles",
+    "shortName": "AC"
+  },
+  {
+    "pokemonSize": 831,
+    "trainerSize": 3,
+    "longName": "Pampanga",
+    "shortName": "Pampanga"
+  },
+  {
+    "pokemonSize": 1072,
+    "trainerSize": 3,
+    "longName": "Hwaseong-si",
+    "shortName": "Hwaseong-si"
+  },
+  {
+    "pokemonSize": 270,
+    "trainerSize": 2,
+    "longName": "Hongcheon-gun",
+    "shortName": "Hongcheon-gun"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Mosman",
+    "shortName": "Mosman"
+  },
+  {
+    "pokemonSize": 310,
+    "trainerSize": 1,
+    "longName": "2088",
+    "shortName": "2088"
+  },
+  {
+    "pokemonSize": 1241,
+    "trainerSize": 2,
+    "longName": "Yeosu-si",
+    "shortName": "Yeosu-si"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Higashinari Ward",
+    "shortName": "Higashinari Ward"
+  },
+  {
+    "pokemonSize": 639,
+    "trainerSize": 1,
+    "longName": "Taoyuan",
+    "shortName": "Taoyuan"
+  },
+  {
+    "pokemonSize": 639,
+    "trainerSize": 1,
+    "longName": "信光里",
+    "shortName": "信光里"
+  },
+  {
+    "pokemonSize": 639,
+    "trainerSize": 1,
+    "longName": "Taoyuan District",
+    "shortName": "Taoyuan District"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Taoyuan City",
+    "shortName": "Taoyuan City"
+  },
+  {
+    "pokemonSize": 1,
+    "trainerSize": 1,
+    "longName": "Cheorwon-gun",
+    "shortName": "Cheorwon-gun"
+  },
+  {
+    "pokemonSize": 619,
+    "trainerSize": 3,
+    "longName": "Lapu-Lapu City",
+    "shortName": "Lapu-Lapu City"
+  },
+  {
+    "pokemonSize": 619,
+    "trainerSize": 3,
+    "longName": "6015",
+    "shortName": "6015"
+  },
+  {
+    "pokemonSize": 157,
+    "trainerSize": 1,
+    "longName": "Minato",
+    "shortName": "Minato"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Showa Ward",
+    "shortName": "Showa Ward"
+  },
+  {
+    "pokemonSize": 676,
+    "trainerSize": 1,
+    "longName": "Mokpo-si",
+    "shortName": "Mokpo-si"
+  },
+  {
+    "pokemonSize": 274,
+    "trainerSize": 1,
+    "longName": "Dongducheon-si",
+    "shortName": "Dongducheon-si"
+  },
+  {
+    "pokemonSize": 1860,
+    "trainerSize": 2,
+    "longName": "Uljin-gun",
+    "shortName": "Uljin-gun"
+  },
+  {
+    "pokemonSize": 840,
+    "trainerSize": 2,
+    "longName": "Krong Siem Reap",
+    "shortName": "Krong Siem Reap"
+  },
+  {
+    "pokemonSize": 840,
+    "trainerSize": 2,
+    "longName": "Siem Reap",
+    "shortName": "Siem Reap"
+  },
+  {
+    "pokemonSize": 840,
+    "trainerSize": 2,
+    "longName": "Cambodia",
+    "shortName": "KH"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Tsurumi Ward",
+    "shortName": "Tsurumi Ward"
+  },
+  {
+    "pokemonSize": 1251,
+    "trainerSize": 2,
+    "longName": "Yokohama",
+    "shortName": "Yokohama"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Toyohira Ward",
+    "shortName": "Toyohira Ward"
+  },
+  {
+    "pokemonSize": 2306,
+    "trainerSize": 2,
+    "longName": "Sapporo",
+    "shortName": "Sapporo"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Beppu",
+    "shortName": "Beppu"
+  },
+  {
+    "pokemonSize": 180,
+    "trainerSize": 1,
+    "longName": "Markham",
+    "shortName": "Markham"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Hoengseong-gun",
+    "shortName": "Hoengseong-gun"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Tajiri",
+    "shortName": "Tajiri"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Sennan District",
+    "shortName": "Sennan District"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Higashiyodogawa Ward",
+    "shortName": "Higashiyodogawa Ward"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Nishi Ward",
+    "shortName": "Nishi Ward"
+  },
+  {
+    "pokemonSize": 445,
+    "trainerSize": 1,
+    "longName": "Decatur",
+    "shortName": "Decatur"
+  },
+  {
+    "pokemonSize": 445,
+    "trainerSize": 1,
+    "longName": "DeKalb County",
+    "shortName": "Dekalb County"
+  },
+  {
+    "pokemonSize": 855,
+    "trainerSize": 3,
+    "longName": "Georgia",
+    "shortName": "GA"
+  },
+  {
+    "pokemonSize": 445,
+    "trainerSize": 1,
+    "longName": "30030",
+    "shortName": "30030"
+  },
+  {
+    "pokemonSize": 905,
+    "trainerSize": 1,
+    "longName": "Lidcombe",
+    "shortName": "Lidcombe"
+  },
+  {
+    "pokemonSize": 905,
+    "trainerSize": 1,
+    "longName": "2141",
+    "shortName": "2141"
+  },
+  {
+    "pokemonSize": 186,
+    "trainerSize": 1,
+    "longName": "Setagaya",
+    "shortName": "Setagaya"
+  },
+  {
+    "pokemonSize": 1523,
+    "trainerSize": 1,
+    "longName": "Surfers Paradise",
+    "shortName": "Surfers Paradise"
+  },
+  {
+    "pokemonSize": 1523,
+    "trainerSize": 1,
+    "longName": "4217",
+    "shortName": "4217"
+  },
+  {
+    "pokemonSize": 928,
+    "trainerSize": 1,
+    "longName": "Kuta",
+    "shortName": "Kuta"
+  },
+  {
+    "pokemonSize": 928,
+    "trainerSize": 1,
+    "longName": "Kuta",
+    "shortName": "Kuta"
+  },
+  {
+    "pokemonSize": 928,
+    "trainerSize": 1,
+    "longName": "Badung Regency",
+    "shortName": "Badung Regency"
+  },
+  {
+    "pokemonSize": 928,
+    "trainerSize": 1,
+    "longName": "Bali",
+    "shortName": "Bali"
+  },
+  {
+    "pokemonSize": 527,
+    "trainerSize": 1,
+    "longName": "Tillmans Corner",
+    "shortName": "Tillmans Corner"
+  },
+  {
+    "pokemonSize": 527,
+    "trainerSize": 1,
+    "longName": "Mobile County",
+    "shortName": "Mobile County"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Parañaque",
+    "shortName": "Parañaque"
+  },
+  {
+    "pokemonSize": 278,
+    "trainerSize": 1,
+    "longName": "Pak Kret",
+    "shortName": "Pak Kret"
+  },
+  {
+    "pokemonSize": 278,
+    "trainerSize": 1,
+    "longName": "Pak Kret District",
+    "shortName": "อ.ปากเกร็ด"
+  },
+  {
+    "pokemonSize": 278,
+    "trainerSize": 1,
+    "longName": "Nonthaburi",
+    "shortName": "จ.นนทบุรี"
+  },
+  {
+    "pokemonSize": 278,
+    "trainerSize": 1,
+    "longName": "11120",
+    "shortName": "11120"
+  },
+  {
+    "pokemonSize": 555,
+    "trainerSize": 1,
+    "longName": "Dawes Point",
+    "shortName": "Dawes Point"
+  },
+  {
+    "pokemonSize": 2187,
+    "trainerSize": 5,
+    "longName": "Gunpo-si",
+    "shortName": "Gunpo-si"
+  },
+  {
+    "pokemonSize": 236,
+    "trainerSize": 1,
+    "longName": "Burnaby",
+    "shortName": "Burnaby"
+  },
+  {
+    "pokemonSize": 625,
+    "trainerSize": 1,
+    "longName": "Yeongi-gun",
+    "shortName": "Yeongi-gun"
+  },
+  {
+    "pokemonSize": 256,
+    "trainerSize": 1,
+    "longName": "Guatemala City",
+    "shortName": "Guate"
+  },
+  {
+    "pokemonSize": 256,
+    "trainerSize": 1,
+    "longName": "Guatemala Department",
+    "shortName": "Guatemala Department"
+  },
+  {
+    "pokemonSize": 256,
+    "trainerSize": 1,
+    "longName": "Guatemala",
+    "shortName": "GT"
+  },
+  {
+    "pokemonSize": 282,
+    "trainerSize": 1,
+    "longName": "Chuo",
+    "shortName": "Chuo"
+  },
+  {
+    "pokemonSize": 301,
+    "trainerSize": 1,
+    "longName": "Strathfield",
+    "shortName": "Strathfield"
+  },
+  {
+    "pokemonSize": 301,
+    "trainerSize": 1,
+    "longName": "2135",
+    "shortName": "2135"
+  },
+  {
+    "pokemonSize": 315,
+    "trainerSize": 1,
+    "longName": "Montevideo",
+    "shortName": "Montevideo"
+  },
+  {
+    "pokemonSize": 315,
+    "trainerSize": 1,
+    "longName": "Montevideo Department",
+    "shortName": "Montevideo Department"
+  },
+  {
+    "pokemonSize": 315,
+    "trainerSize": 1,
+    "longName": "Uruguay",
+    "shortName": "UY"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Westmead",
+    "shortName": "Westmead"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "2145",
+    "shortName": "2145"
+  },
+  {
+    "pokemonSize": 347,
+    "trainerSize": 1,
+    "longName": "Chatan",
+    "shortName": "Chatan"
+  },
+  {
+    "pokemonSize": 347,
+    "trainerSize": 1,
+    "longName": "Nakagami District",
+    "shortName": "Nakagami District"
+  },
+  {
+    "pokemonSize": 286,
+    "trainerSize": 1,
+    "longName": "Newnan",
+    "shortName": "Newnan"
+  },
+  {
+    "pokemonSize": 286,
+    "trainerSize": 1,
+    "longName": "Coweta County",
+    "shortName": "Coweta County"
+  },
+  {
+    "pokemonSize": 67,
+    "trainerSize": 1,
+    "longName": "Ate",
+    "shortName": "Ate"
+  },
+  {
+    "pokemonSize": 67,
+    "trainerSize": 1,
+    "longName": "Lima Province",
+    "shortName": "Lima Province"
+  },
+  {
+    "pokemonSize": 67,
+    "trainerSize": 1,
+    "longName": "Lima Region",
+    "shortName": "Lima Region"
+  },
+  {
+    "pokemonSize": 411,
+    "trainerSize": 1,
+    "longName": "The Woodlands",
+    "shortName": "The Woodlands"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Hiroo",
+    "shortName": "Hiroo"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Hiroo District",
+    "shortName": "Hiroo District"
+  },
+  {
+    "pokemonSize": 138,
+    "trainerSize": 1,
+    "longName": "La Habra",
+    "shortName": "La Habra"
+  },
+  {
+    "pokemonSize": 138,
+    "trainerSize": 1,
+    "longName": "90631",
+    "shortName": "90631"
+  },
+  {
+    "pokemonSize": 199,
+    "trainerSize": 1,
+    "longName": "Gliwice",
+    "shortName": "Gliwice"
+  },
+  {
+    "pokemonSize": 199,
+    "trainerSize": 1,
+    "longName": "Gliwice",
+    "shortName": "Gliwice"
+  },
+  {
+    "pokemonSize": 199,
+    "trainerSize": 1,
+    "longName": "Gliwice County",
+    "shortName": "Gliwice County"
+  },
+  {
+    "pokemonSize": 199,
+    "trainerSize": 1,
+    "longName": "Silesian Voivodeship",
+    "shortName": "Silesian Voivodeship"
+  },
+  {
+    "pokemonSize": 962,
+    "trainerSize": 2,
+    "longName": "Munich",
+    "shortName": "Munich"
+  },
+  {
+    "pokemonSize": 962,
+    "trainerSize": 2,
+    "longName": "Upper Bavaria",
+    "shortName": "Upper Bavaria"
+  },
+  {
+    "pokemonSize": 962,
+    "trainerSize": 2,
+    "longName": "Bavaria",
+    "shortName": "BY"
+  },
+  {
+    "pokemonSize": 22,
+    "trainerSize": 1,
+    "longName": "Montreal",
+    "shortName": "Montreal"
+  },
+  {
+    "pokemonSize": 22,
+    "trainerSize": 1,
+    "longName": "Montreal",
+    "shortName": "Montreal"
+  },
+  {
+    "pokemonSize": 22,
+    "trainerSize": 1,
+    "longName": "Québec",
+    "shortName": "QC"
+  },
+  {
+    "pokemonSize": 349,
+    "trainerSize": 1,
+    "longName": "Bang Kaeo",
+    "shortName": "ต. บางแก้ว"
+  },
+  {
+    "pokemonSize": 349,
+    "trainerSize": 1,
+    "longName": "Bang Phli District",
+    "shortName": "อ.บางพลี"
+  },
+  {
+    "pokemonSize": 349,
+    "trainerSize": 1,
+    "longName": "Samut Prakan",
+    "shortName": "จ.สมุทรปราการ"
+  },
+  {
+    "pokemonSize": 1379,
+    "trainerSize": 3,
+    "longName": "Bucheon-si",
+    "shortName": "Bucheon-si"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Eastwood",
+    "shortName": "Eastwood"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "2122",
+    "shortName": "2122"
+  },
+  {
+    "pokemonSize": 520,
+    "trainerSize": 2,
+    "longName": "Kunisaki",
+    "shortName": "Kunisaki"
+  },
+  {
+    "pokemonSize": 168,
+    "trainerSize": 1,
+    "longName": "Dublin",
+    "shortName": "Dublin"
+  },
+  {
+    "pokemonSize": 168,
+    "trainerSize": 1,
+    "longName": "Dublin City",
+    "shortName": "Dublin City"
+  },
+  {
+    "pokemonSize": 168,
+    "trainerSize": 1,
+    "longName": "County Dublin",
+    "shortName": "County Dublin"
+  },
+  {
+    "pokemonSize": 168,
+    "trainerSize": 1,
+    "longName": "Ireland",
+    "shortName": "IE"
+  },
+  {
+    "pokemonSize": 289,
+    "trainerSize": 1,
+    "longName": "West Ryde",
+    "shortName": "West Ryde"
+  },
+  {
+    "pokemonSize": 289,
+    "trainerSize": 1,
+    "longName": "Ryde City Council",
+    "shortName": "Ryde"
+  },
+  {
+    "pokemonSize": 289,
+    "trainerSize": 1,
+    "longName": "2114",
+    "shortName": "2114"
+  },
+  {
+    "pokemonSize": 591,
+    "trainerSize": 2,
+    "longName": "Suita",
+    "shortName": "Suita"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Goheung-gun",
+    "shortName": "Goheung-gun"
+  },
+  {
+    "pokemonSize": 617,
+    "trainerSize": 1,
+    "longName": "Carlton",
+    "shortName": "Carlton"
+  },
+  {
+    "pokemonSize": 617,
+    "trainerSize": 1,
+    "longName": "3053",
+    "shortName": "3053"
+  },
+  {
+    "pokemonSize": 1291,
+    "trainerSize": 1,
+    "longName": "Rockingham",
+    "shortName": "Rockingham"
+  },
+  {
+    "pokemonSize": 1291,
+    "trainerSize": 1,
+    "longName": "City of Rockingham",
+    "shortName": "Rockingham"
+  },
+  {
+    "pokemonSize": 1291,
+    "trainerSize": 1,
+    "longName": "6168",
+    "shortName": "6168"
+  },
+  {
+    "pokemonSize": 882,
+    "trainerSize": 2,
+    "longName": "Eumseong-gun",
+    "shortName": "Eumseong-gun"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Asahikawa",
+    "shortName": "Asahikawa"
+  },
+  {
+    "pokemonSize": 311,
+    "trainerSize": 1,
+    "longName": "Hasbrouck Heights",
+    "shortName": "Hasbrouck Heights"
+  },
+  {
+    "pokemonSize": 311,
+    "trainerSize": 1,
+    "longName": "Bergen County",
+    "shortName": "Bergen County"
+  },
+  {
+    "pokemonSize": 311,
+    "trainerSize": 1,
+    "longName": "New Jersey",
+    "shortName": "NJ"
+  },
+  {
+    "pokemonSize": 311,
+    "trainerSize": 1,
+    "longName": "07604",
+    "shortName": "07604"
+  },
+  {
+    "pokemonSize": 265,
+    "trainerSize": 1,
+    "longName": "Auburn",
+    "shortName": "Auburn"
+  },
+  {
+    "pokemonSize": 265,
+    "trainerSize": 1,
+    "longName": "Lee County",
+    "shortName": "Lee County"
+  },
+  {
+    "pokemonSize": 888,
+    "trainerSize": 1,
+    "longName": "Mandaluyong",
+    "shortName": "Mandaluyong"
+  },
+  {
+    "pokemonSize": 888,
+    "trainerSize": 1,
+    "longName": "1550",
+    "shortName": "1550"
+  },
+  {
+    "pokemonSize": 240,
+    "trainerSize": 1,
+    "longName": "Malay",
+    "shortName": "Malay"
+  },
+  {
+    "pokemonSize": 240,
+    "trainerSize": 1,
+    "longName": "Aklan",
+    "shortName": "Aklan"
+  },
+  {
+    "pokemonSize": 240,
+    "trainerSize": 1,
+    "longName": "Western Visayas",
+    "shortName": "Western Visayas"
+  },
+  {
+    "pokemonSize": 357,
+    "trainerSize": 2,
+    "longName": "Hsinchu",
+    "shortName": "Hsinchu"
+  },
+  {
+    "pokemonSize": 357,
+    "trainerSize": 2,
+    "longName": "Hsinchu City",
+    "shortName": "Hsinchu City"
+  },
+  {
+    "pokemonSize": 974,
+    "trainerSize": 1,
+    "longName": "New Taipei",
+    "shortName": "New Taipei"
+  },
+  {
+    "pokemonSize": 974,
+    "trainerSize": 1,
+    "longName": "Banqiao District",
+    "shortName": "Banqiao District"
+  },
+  {
+    "pokemonSize": 974,
+    "trainerSize": 1,
+    "longName": "New Taipei City",
+    "shortName": "New Taipei City"
+  },
+  {
+    "pokemonSize": 1343,
+    "trainerSize": 2,
+    "longName": "Ellicott City",
+    "shortName": "Ellicott City"
+  },
+  {
+    "pokemonSize": 1343,
+    "trainerSize": 2,
+    "longName": "Howard County",
+    "shortName": "Howard County"
+  },
+  {
+    "pokemonSize": 549,
+    "trainerSize": 1,
+    "longName": "Yamanakako",
+    "shortName": "Yamanakako"
+  },
+  {
+    "pokemonSize": 549,
+    "trainerSize": 1,
+    "longName": "Minamitsuru District",
+    "shortName": "Minamitsuru District"
+  },
+  {
+    "pokemonSize": 549,
+    "trainerSize": 1,
+    "longName": "Yamanashi Prefecture",
+    "shortName": "Yamanashi Prefecture"
+  },
+  {
+    "pokemonSize": 1134,
+    "trainerSize": 1,
+    "longName": "Saint-Denis",
+    "shortName": "Saint-Denis"
+  },
+  {
+    "pokemonSize": 1134,
+    "trainerSize": 1,
+    "longName": "Seine-Saint-Denis",
+    "shortName": "Seine-Saint-Denis"
+  },
+  {
+    "pokemonSize": 505,
+    "trainerSize": 1,
+    "longName": "Lauterbrunnen",
+    "shortName": "Lauterbrunnen"
+  },
+  {
+    "pokemonSize": 505,
+    "trainerSize": 1,
+    "longName": "Interlaken District",
+    "shortName": "Interlaken District"
+  },
+  {
+    "pokemonSize": 505,
+    "trainerSize": 1,
+    "longName": "Canton of Bern",
+    "shortName": "BE"
+  },
+  {
+    "pokemonSize": 505,
+    "trainerSize": 1,
+    "longName": "Switzerland",
+    "shortName": "CH"
+  },
+  {
+    "pokemonSize": 939,
+    "trainerSize": 3,
+    "longName": "Narita",
+    "shortName": "Narita"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Nakagyo Ward",
+    "shortName": "Nakagyo Ward"
+  },
+  {
+    "pokemonSize": 274,
+    "trainerSize": 1,
+    "longName": "Kyoto",
+    "shortName": "Kyoto"
+  },
+  {
+    "pokemonSize": 274,
+    "trainerSize": 1,
+    "longName": "Kyoto Prefecture",
+    "shortName": "Kyoto Prefecture"
+  },
+  {
+    "pokemonSize": 264,
+    "trainerSize": 1,
+    "longName": "Las Condes",
+    "shortName": "Las Condes"
+  },
+  {
+    "pokemonSize": 264,
+    "trainerSize": 1,
+    "longName": "Las Condes",
+    "shortName": "Las Condes"
+  },
+  {
+    "pokemonSize": 309,
+    "trainerSize": 1,
+    "longName": "Concord West",
+    "shortName": "Concord West"
+  },
+  {
+    "pokemonSize": 309,
+    "trainerSize": 1,
+    "longName": "2138",
+    "shortName": "2138"
+  },
+  {
+    "pokemonSize": 273,
+    "trainerSize": 1,
+    "longName": "Yokosuka",
+    "shortName": "Yokosuka"
+  },
+  {
+    "pokemonSize": 268,
+    "trainerSize": 1,
+    "longName": "Seocheon-gun",
+    "shortName": "Seocheon-gun"
+  },
+  {
+    "pokemonSize": 364,
+    "trainerSize": 1,
+    "longName": "Woolloongabba",
+    "shortName": "Woolloongabba"
+  },
+  {
+    "pokemonSize": 364,
+    "trainerSize": 1,
+    "longName": "4102",
+    "shortName": "4102"
+  },
+  {
+    "pokemonSize": 694,
+    "trainerSize": 1,
+    "longName": "Settsu",
+    "shortName": "Settsu"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Akaigawa",
+    "shortName": "Akaigawa"
+  },
+  {
+    "pokemonSize": 578,
+    "trainerSize": 1,
+    "longName": "Yoichi District",
+    "shortName": "Yoichi District"
+  },
+  {
+    "pokemonSize": 357,
+    "trainerSize": 1,
+    "longName": "Rancho Cucamonga",
+    "shortName": "Rancho Cucamonga"
+  },
+  {
+    "pokemonSize": 357,
+    "trainerSize": 1,
+    "longName": "San Bernardino County",
+    "shortName": "San Bernardino County"
+  },
+  {
+    "pokemonSize": 314,
+    "trainerSize": 1,
+    "longName": "Naju-si",
+    "shortName": "Naju-si"
+  },
+  {
+    "pokemonSize": 746,
+    "trainerSize": 1,
+    "longName": "Dumaguete",
+    "shortName": "Dumaguete"
+  },
+  {
+    "pokemonSize": 746,
+    "trainerSize": 1,
+    "longName": "Negros Oriental",
+    "shortName": "Negros Oriental"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "North Vancouver",
+    "shortName": "North Vancouver"
+  },
+  {
+    "pokemonSize": 217,
+    "trainerSize": 1,
+    "longName": "Gwacheon-si",
+    "shortName": "Gwacheon-si"
+  },
+  {
+    "pokemonSize": 244,
+    "trainerSize": 1,
+    "longName": "Runcorn",
+    "shortName": "Runcorn"
+  },
+  {
+    "pokemonSize": 244,
+    "trainerSize": 1,
+    "longName": "4113",
+    "shortName": "4113"
+  },
+  {
+    "pokemonSize": 423,
+    "trainerSize": 1,
+    "longName": "Coppell",
+    "shortName": "Coppell"
+  },
+  {
+    "pokemonSize": 275,
+    "trainerSize": 1,
+    "longName": "Calgary",
+    "shortName": "Calgary"
+  },
+  {
+    "pokemonSize": 275,
+    "trainerSize": 1,
+    "longName": "Division No. 6",
+    "shortName": "Division No. 6"
+  },
+  {
+    "pokemonSize": 275,
+    "trainerSize": 1,
+    "longName": "Alberta",
+    "shortName": "AB"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Naniwa Ward",
+    "shortName": "Naniwa Ward"
+  },
+  {
+    "pokemonSize": 184,
+    "trainerSize": 1,
+    "longName": "Manila",
+    "shortName": "Manila"
+  },
+  {
+    "pokemonSize": 370,
+    "trainerSize": 1,
+    "longName": "Cambridge",
+    "shortName": "Cambridge"
+  },
+  {
+    "pokemonSize": 370,
+    "trainerSize": 1,
+    "longName": "Middlesex County",
+    "shortName": "Middlesex County"
+  },
+  {
+    "pokemonSize": 370,
+    "trainerSize": 1,
+    "longName": "Massachusetts",
+    "shortName": "MA"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 1,
+    "longName": "Okazaki",
+    "shortName": "Okazaki"
+  },
+  {
+    "pokemonSize": 435,
+    "trainerSize": 3,
+    "longName": "Münster",
+    "shortName": "Münster"
+  },
+  {
+    "pokemonSize": 435,
+    "trainerSize": 3,
+    "longName": "Münster",
+    "shortName": "MS"
+  },
+  {
+    "pokemonSize": 149,
+    "trainerSize": 1,
+    "longName": "Rolla",
+    "shortName": "Rolla"
+  },
+  {
+    "pokemonSize": 149,
+    "trainerSize": 1,
+    "longName": "Phelps County",
+    "shortName": "Phelps County"
+  },
+  {
+    "pokemonSize": 149,
+    "trainerSize": 1,
+    "longName": "Missouri",
+    "shortName": "MO"
+  },
+  {
+    "pokemonSize": 221,
+    "trainerSize": 1,
+    "longName": "Salt Lake City",
+    "shortName": "Salt Lake City"
+  },
+  {
+    "pokemonSize": 221,
+    "trainerSize": 1,
+    "longName": "Salt Lake County",
+    "shortName": "Salt Lake County"
+  },
+  {
+    "pokemonSize": 221,
+    "trainerSize": 1,
+    "longName": "Utah",
+    "shortName": "UT"
+  },
+  {
+    "pokemonSize": 833,
+    "trainerSize": 1,
+    "longName": "Vũng Tàu",
+    "shortName": "Vũng Tàu"
+  },
+  {
+    "pokemonSize": 833,
+    "trainerSize": 1,
+    "longName": "Ba Ria - Vung Tau",
+    "shortName": "Ba Ria - Vung Tau"
+  },
+  {
+    "pokemonSize": 323,
+    "trainerSize": 1,
+    "longName": "Al Jazirah Al Hamra",
+    "shortName": "Al Jazirah Al Hamra"
+  },
+  {
+    "pokemonSize": 323,
+    "trainerSize": 1,
+    "longName": "Ras al Khaimah",
+    "shortName": "Ras al Khaimah"
+  },
+  {
+    "pokemonSize": 323,
+    "trainerSize": 1,
+    "longName": "United Arab Emirates",
+    "shortName": "AE"
+  },
+  {
+    "pokemonSize": 180,
+    "trainerSize": 1,
+    "longName": "Itabashi",
+    "shortName": "Itabashi"
+  },
+  {
+    "pokemonSize": 29,
+    "trainerSize": 1,
+    "longName": "Da Nang",
+    "shortName": "Da Nang"
+  },
+  {
+    "pokemonSize": 29,
+    "trainerSize": 1,
+    "longName": "Hải Châu District",
+    "shortName": "Hải Châu District"
+  },
+  {
+    "pokemonSize": 29,
+    "trainerSize": 1,
+    "longName": "Da Nang",
+    "shortName": "Da Nang"
+  },
+  {
+    "pokemonSize": 288,
+    "trainerSize": 1,
+    "longName": "West Pennant Hills",
+    "shortName": "West Pennant Hills"
+  },
+  {
+    "pokemonSize": 288,
+    "trainerSize": 1,
+    "longName": "2125",
+    "shortName": "2125"
+  },
+  {
+    "pokemonSize": 897,
+    "trainerSize": 1,
+    "longName": "Iksan-si",
+    "shortName": "Iksan-si"
+  },
+  {
+    "pokemonSize": 286,
+    "trainerSize": 1,
+    "longName": "Sliema",
+    "shortName": "Sliema"
+  },
+  {
+    "pokemonSize": 286,
+    "trainerSize": 1,
+    "longName": "Malta",
+    "shortName": "MT"
+  },
+  {
+    "pokemonSize": 327,
+    "trainerSize": 1,
+    "longName": "Waipio Acres",
+    "shortName": "Waipio Acres"
+  },
+  {
+    "pokemonSize": 327,
+    "trainerSize": 1,
+    "longName": "96789",
+    "shortName": "96789"
+  },
+  {
+    "pokemonSize": 91,
+    "trainerSize": 1,
+    "longName": "Tenri",
+    "shortName": "Tenri"
+  },
+  {
+    "pokemonSize": 321,
+    "trainerSize": 2,
+    "longName": "Nara Prefecture",
+    "shortName": "Nara Prefecture"
+  },
+  {
+    "pokemonSize": 157,
+    "trainerSize": 1,
+    "longName": "Providencia",
+    "shortName": "Providencia"
+  },
+  {
+    "pokemonSize": 157,
+    "trainerSize": 1,
+    "longName": "Providencia",
+    "shortName": "Providencia"
+  },
+  {
+    "pokemonSize": 313,
+    "trainerSize": 1,
+    "longName": "Commerce",
+    "shortName": "Commerce"
+  },
+  {
+    "pokemonSize": 313,
+    "trainerSize": 1,
+    "longName": "Hunt County",
+    "shortName": "Hunt County"
+  },
+  {
+    "pokemonSize": 313,
+    "trainerSize": 1,
+    "longName": "75428",
+    "shortName": "75428"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Tobata Ward",
+    "shortName": "Tobata Ward"
+  },
+  {
+    "pokemonSize": 313,
+    "trainerSize": 1,
+    "longName": "Kitakyushu",
+    "shortName": "Kitakyushu"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Higashi Ward",
+    "shortName": "Higashi Ward"
+  },
+  {
+    "pokemonSize": 153,
+    "trainerSize": 1,
+    "longName": "Lednické Rovne",
+    "shortName": "Lednické Rovne"
+  },
+  {
+    "pokemonSize": 153,
+    "trainerSize": 1,
+    "longName": "Púchov District",
+    "shortName": "Púchov District"
+  },
+  {
+    "pokemonSize": 153,
+    "trainerSize": 1,
+    "longName": "Trenčín Region",
+    "shortName": "Trenčín Region"
+  },
+  {
+    "pokemonSize": 153,
+    "trainerSize": 1,
+    "longName": "020 61",
+    "shortName": "020 61"
+  },
+  {
+    "pokemonSize": 70,
+    "trainerSize": 2,
+    "longName": "Gimpo-si",
+    "shortName": "Gimpo-si"
+  },
+  {
+    "pokemonSize": 978,
+    "trainerSize": 1,
+    "longName": "San Diego",
+    "shortName": "San Diego"
+  },
+  {
+    "pokemonSize": 1056,
+    "trainerSize": 1,
+    "longName": "Herzliya",
+    "shortName": "Herzliya"
+  },
+  {
+    "pokemonSize": 112,
+    "trainerSize": 1,
+    "longName": "Kitahiroshima",
+    "shortName": "Kitahiroshima"
+  },
+  {
+    "pokemonSize": 382,
+    "trainerSize": 1,
+    "longName": "Khao Mai Kaeo",
+    "shortName": "Khao Mai Kaeo"
+  },
+  {
+    "pokemonSize": 382,
+    "trainerSize": 1,
+    "longName": "Kabin Buri District",
+    "shortName": "อ. กบินทร์บุรี"
+  },
+  {
+    "pokemonSize": 382,
+    "trainerSize": 1,
+    "longName": "Prachin Buri",
+    "shortName": "จ.ปราจีนบุรี"
+  },
+  {
+    "pokemonSize": 280,
+    "trainerSize": 1,
+    "longName": "Paradise",
+    "shortName": "Paradise"
+  },
+  {
+    "pokemonSize": 280,
+    "trainerSize": 1,
+    "longName": "Clark County",
+    "shortName": "Clark County"
+  },
+  {
+    "pokemonSize": 280,
+    "trainerSize": 1,
+    "longName": "Nevada",
+    "shortName": "NV"
+  },
+  {
+    "pokemonSize": 411,
+    "trainerSize": 1,
+    "longName": "Newmarket",
+    "shortName": "Newmarket"
+  },
+  {
+    "pokemonSize": 232,
+    "trainerSize": 1,
+    "longName": "Maroochydore",
+    "shortName": "Maroochydore"
+  },
+  {
+    "pokemonSize": 232,
+    "trainerSize": 1,
+    "longName": "Sunshine Coast Regional",
+    "shortName": "Sunshine Coast"
+  },
+  {
+    "pokemonSize": 232,
+    "trainerSize": 1,
+    "longName": "4558",
+    "shortName": "4558"
+  },
+  {
+    "pokemonSize": 558,
+    "trainerSize": 1,
+    "longName": "Toyooka",
+    "shortName": "Toyooka"
+  },
+  {
+    "pokemonSize": 558,
+    "trainerSize": 1,
+    "longName": "Hyogo Prefecture",
+    "shortName": "Hyogo Prefecture"
+  },
+  {
+    "pokemonSize": 487,
+    "trainerSize": 1,
+    "longName": "Katsushika",
+    "shortName": "Katsushika"
+  },
+  {
+    "pokemonSize": 290,
+    "trainerSize": 1,
+    "longName": "Chiswick",
+    "shortName": "Chiswick"
+  },
+  {
+    "pokemonSize": 290,
+    "trainerSize": 1,
+    "longName": "2046",
+    "shortName": "2046"
+  },
+  {
+    "pokemonSize": 0,
+    "trainerSize": 0,
+    "longName": "Sakyo Ward",
+    "shortName": "Sakyo Ward"
+  },
+  {
+    "pokemonSize": 207,
+    "trainerSize": 1,
+    "longName": "Hornsby",
+    "shortName": "Hornsby"
+  },
+  {
+    "pokemonSize": 207,
+    "trainerSize": 1,
+    "longName": "The Council of the Shire of Hornsby",
+    "shortName": "Hornsby"
+  },
+  {
+    "pokemonSize": 207,
+    "trainerSize": 1,
+    "longName": "2077",
+    "shortName": "2077"
+  },
+  {
+    "pokemonSize": 252,
+    "trainerSize": 1,
+    "longName": "Vancouver",
+    "shortName": "Vancouver"
+  },
+  {
+    "pokemonSize": 78,
+    "trainerSize": 1,
+    "longName": "Utsunomiya",
+    "shortName": "Utsunomiya"
+  },
+  {
+    "pokemonSize": 78,
+    "trainerSize": 1,
+    "longName": "Tochigi Prefecture",
+    "shortName": "Tochigi Prefecture"
+  },
+  {
+    "pokemonSize": 129,
+    "trainerSize": 1,
+    "longName": "Placentia",
+    "shortName": "Placentia"
+  },
+  {
+    "pokemonSize": 351,
+    "trainerSize": 1,
+    "longName": "Vermont",
+    "shortName": "Vermont"
+  },
+  {
+    "pokemonSize": 351,
+    "trainerSize": 1,
+    "longName": "3133",
+    "shortName": "3133"
+  },
+  {
+    "pokemonSize": 230,
+    "trainerSize": 1,
+    "longName": "Nara",
+    "shortName": "Nara"
+  },
+  {
+    "pokemonSize": 316,
+    "trainerSize": 1,
+    "longName": "Ampang Jaya",
+    "shortName": "Ampang Jaya"
+  },
+  {
+    "pokemonSize": 615,
+    "trainerSize": 1,
+    "longName": "Toshima",
+    "shortName": "Toshima"
+  },
+  {
+    "pokemonSize": 217,
+    "trainerSize": 1,
+    "longName": "Mellersta Förstaden",
+    "shortName": "Mellersta Förstaden"
+  },
+  {
+    "pokemonSize": 217,
+    "trainerSize": 1,
+    "longName": "Malmö",
+    "shortName": "Malmö"
+  },
+  {
+    "pokemonSize": 217,
+    "trainerSize": 1,
+    "longName": "Skåne County",
+    "shortName": "Skåne County"
+  },
+  {
+    "pokemonSize": 217,
+    "trainerSize": 1,
+    "longName": "Sweden",
+    "shortName": "SE"
+  },
+  {
+    "pokemonSize": 142,
+    "trainerSize": 1,
+    "longName": "Mount Hawthorn",
+    "shortName": "Mount Hawthorn"
+  },
+  {
+    "pokemonSize": 142,
+    "trainerSize": 1,
+    "longName": "City of Vincent",
+    "shortName": "Vincent"
+  },
+  {
+    "pokemonSize": 142,
+    "trainerSize": 1,
+    "longName": "6016",
+    "shortName": "6016"
+  },
+  {
+    "pokemonSize": 910,
+    "trainerSize": 1,
+    "longName": "Cypress",
+    "shortName": "Cypress"
+  },
+  {
+    "pokemonSize": 124,
+    "trainerSize": 1,
+    "longName": "Grayson",
+    "shortName": "Grayson"
+  },
+  {
+    "pokemonSize": 124,
+    "trainerSize": 1,
+    "longName": "Gwinnett County",
+    "shortName": "Gwinnett County"
+  },
+  {
+    "pokemonSize": 296,
+    "trainerSize": 1,
+    "longName": "Kita",
+    "shortName": "Kita"
+  },
+  {
+    "pokemonSize": 518,
+    "trainerSize": 1,
+    "longName": "Fujimi",
+    "shortName": "Fujimi"
+  },
+  {
+    "pokemonSize": 122,
+    "trainerSize": 1,
+    "longName": "tx. Chí Linh",
+    "shortName": "tx. Chí Linh"
+  },
+  {
+    "pokemonSize": 122,
+    "trainerSize": 1,
+    "longName": "Hải Dương",
+    "shortName": "Hải Dương"
+  },
+  {
+    "pokemonSize": 145,
+    "trainerSize": 1,
+    "longName": "Anseong-si",
+    "shortName": "Anseong-si"
+  },
+  {
+    "pokemonSize": 37,
+    "trainerSize": 1,
+    "longName": "Hurstville",
+    "shortName": "Hurstville"
+  },
+  {
+    "pokemonSize": 37,
+    "trainerSize": 1,
+    "longName": "2220",
+    "shortName": "2220"
+  },
+  {
+    "pokemonSize": 215,
+    "trainerSize": 1,
+    "longName": "Bo Win",
+    "shortName": "ต.บ่อวิน"
+  },
+  {
+    "pokemonSize": 215,
+    "trainerSize": 1,
+    "longName": "Si Racha District",
+    "shortName": "อ.ศรีราชา"
+  },
+  {
+    "pokemonSize": 84,
+    "trainerSize": 1,
+    "longName": "Davao City",
+    "shortName": "Davao City"
+  },
+  {
+    "pokemonSize": 84,
+    "trainerSize": 1,
+    "longName": "Davao del Sur",
+    "shortName": "Davao del Sur"
+  },
+  {
+    "pokemonSize": 84,
+    "trainerSize": 1,
+    "longName": "Davao Region",
+    "shortName": "Davao Region"
+  }
+]

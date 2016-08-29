@@ -1,0 +1,22 @@
+<div class="layout-row layout-align-center-center pokemon-row">
+    <div class="pokemon-column">
+        {{rank || trainer.rank}}위
+        <!--<div>전체: {{trainer.rank}}위-->
+            <change change="trainer.change"></change>
+        <!--</div>-->
+    </div>
+    <div class="pokemon-column">
+        <img class="avatar" ng-src="{{trainer.img || '/images/profile.png'}}">
+    </div>
+    <div class="pokemon-column img text-wrap" ui-sref="trainerDetail({id:trainer.id})">
+        {{trainer.nickname || 'Anonymous Player'}}
+    </div>
+    <div class="pokemon-column">
+        {{trainer.cp}}
+    </div>
+    <div class="pokemon-column flex" hide-sm hide-xs>
+        <div ui-sref="pokemonDetail({id:pokemon.id})" class="pokemon-img" ng-repeat="pokemon in trainer.pokemons">
+            <img ng-src="/{{pokemon.pokemon.img}}">
+        </div>
+    </div>
+</div>

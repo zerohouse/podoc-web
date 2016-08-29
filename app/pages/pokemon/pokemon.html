@@ -1,0 +1,151 @@
+<div class="container flex">
+
+    <h4>
+        <span ng-if="pokemon.nickname">{{pokemon.nickname}} - </span>
+        {{pokemon.pokemon.name}}
+        <small class="date" ng-if="pokemon.creation_time_ms">{{pokemon.creation_time_ms | date : "M. d. hh:mm"}}에 잡음
+        </small>
+    </h4>
+    <div class="layout-row layout-align-center-center padding-20">
+        <div>
+            <img ng-src="/{{pokemon.pokemon.img}}">
+        </div>
+        <div>
+            <canvas radar="[pokemon.individual_attack,pokemon.individual_defense,pokemon.individual_stamina]"
+                    width="300" height="300" label="'개체값('+pokemon.power+')'"
+                    labels="['공격','방어','체력']" max="15"></canvas>
+        </div>
+    </div>
+    <div class="layout-row text-align-center">
+        <div class="flex"></div>
+        <div class="flex">
+            <div class="small-title">특성</div>
+            <type type="type" ng-repeat="type in pokemon.pokemon.types"></type>
+        </div>
+        <div class="flex">
+            <div class="small-title">개체값</div>
+            <div style="position:relative;display: inline-block;">
+                <div style="position:absolute;top:45%;left:50%;transform:translate(-50%,-50%)">
+                    {{pokemon.individual_score}}/45
+                </div>
+                <round-progress style="display:inline-block"
+                                max="45"
+                                current="pokemon.individual_score"
+                                color="#45ccce"
+                                bgcolor="#eaeaea"
+                                radius="38"
+                                stroke="6"
+                                rounded="true"
+                                clockwise="false"
+                                responsive="false"
+                                duration="800"
+                                animation="easeInOutQuart"
+                                animation-delay="0"></round-progress>
+            </div>
+        </div>
+        <div class="flex">
+            <div class="small-title">종족값 순위</div>
+            {{pokemon.pokemon.value[3]}}위
+        </div>
+        <div class="flex"></div>
+    </div>
+    <div class="layout-row margin-top-10 text-align-center">
+        <div class="flex"></div>
+        <div class="flex">
+            <div class="small-title">CP</div>
+            {{pokemon.cp}}
+        </div>
+        <div class="flex">
+            <div class="small-title">체력</div>
+            {{pokemon.stamina}}/{{pokemon.stamina_max}}
+        </div>
+        <div class="flex">
+            <div class="small-title">키</div>
+            {{pokemon.height_m | number:2}}m
+        </div>
+        <div class="flex">
+            <div class="small-title">무게</div>
+            {{pokemon.weight_kg | number:2}}kg
+        </div>
+        <div class="flex"></div>
+    </div>
+
+    <div class="card poke-card" ng-if="pokemon.owner">
+        <h5>
+            <i class="ion-person"></i> 소유자 정보
+        </h5>
+        <trainer-summary trainer="pokemon.owner"></trainer-summary>
+    </div>
+
+
+    <div class="card poke-card">
+        <h5>
+            <i class="ion-information-circled"></i> 상세 정보
+        </h5>
+        <div class="item item-text-wrap">
+            <div class="layout-row">
+                <div class="flex">
+                    <div class="small-title">개체값</div>
+                    {{pokemon.individual_score}}/45
+                </div>
+                <div class="flex">
+                    <div class="small-title">공격</div>
+                    {{pokemon.individual_attack || 0}}/15
+                </div>
+                <div class="flex">
+                    <div class="small-title">방어</div>
+                    {{pokemon.individual_defense || 0}}/15
+                </div>
+                <div class="flex">
+                    <div class="small-title">체력</div>
+                    {{pokemon.individual_stamina || 0}}/15
+                </div>
+            </div>
+            <div class="layout-row margin-top-10">
+                <div class="flex">
+                    <div class="small-title">종족값</div>
+                    {{pokemon.pokemon.power}}
+                </div>
+                <div class="flex">
+                    <div class="small-title">공격</div>
+                    {{pokemon.pokemon.value[0]}}
+                </div>
+                <div class="flex">
+                    <div class="small-title">방어</div>
+                    {{pokemon.pokemon.value[1]}}
+                </div>
+                <div class="flex">
+                    <div class="small-title">체력</div>
+                    {{pokemon.pokemon.value[2]}}
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="card poke-card">
+        <h5>
+            <i class="ion-ios-paw"></i> 공격 정보
+        </h5>
+        <div class="item item-text-wrap skills">
+            <div class="layout-row header">
+                <div class="flex" style="min-width: 100px">이름</div>
+                <div class="flex">특성</div>
+                <div class="flex">공격력</div>
+                <div class="flex">쿨다운</div>
+                <div class="flex">DPS</div>
+                <div class="flex">에너지</div>
+            </div>
+            <div>
+                <skill skill="pokemon.skill_1"></skill>
+                <br>
+                <skill skill="pokemon.skill_2"></skill>
+            </div>
+        </div>
+    </div>
+
+
+    <!--<div class="padding">-->
+    <!--<replies type="DICTIONARY" replies="replies" replies-id="pokemon.id"></replies>-->
+    <!--</div>-->
+</div>

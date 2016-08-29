@@ -1,0 +1,56 @@
+<div class="container flex layout-column">
+    <div class="layout-row layout-align-start-end margin-top-20">
+        <h4><i ui-sref="pokemonRank" class="ion-android-arrow-back margin-right-20"></i>
+            {{pokemonRankService.rankers[0].pokemon.name}} 순위</h4>
+        <div>
+            <img ng-src="/{{pokemonRankService.rankers[0].pokemon.img}}">
+        </div>
+    </div>
+    <div class="layout-row layout-align-center-center pokemon-row header">
+        <div class="pokemon-column">
+            순위
+        </div>
+        <div class="pokemon-column img">
+            잡은 날짜
+        </div>
+        <div class="pokemon-column">
+            이름
+        </div>
+        <div class="pokemon-column">
+            CP
+        </div>
+        <div class="pokemon-column flex">
+            소유자
+        </div>
+        <div class="pokemon-column img">
+            개체값
+        </div>
+    </div>
+    <div class="flex" scroll infinite-scroll="pokemonRankService.more()">
+        <div ng-repeat="pokemon in pokemonRankService.rankers" ui-sref="pokemonDetail({id:pokemon.id})"
+             class="layout-row layout-align-center-center pokemon-row">
+            <div class="pokemon-column">
+                {{$index +1}}
+            </div>
+            <div class="pokemon-column img">
+                {{pokemon.creation_time_ms | ymd}}
+            </div>
+            <div class="pokemon-column">
+                {{pokemon.nickname || pokemon.pokemon.name}}
+            </div>
+
+            <div class="pokemon-column">
+                {{pokemon.cp | number:0}}
+            </div>
+            <div class="pokemon-column flex">
+                {{pokemon.owner.nickname || '익명의 트레이너'}}
+            </div>
+            <div class="pokemon-column img">
+                {{pokemon.individual_score||0}}
+                ({{pokemon.individual_attack||0}}/
+                {{pokemon.individual_defense||0}}/
+                {{pokemon.individual_stamina||0}})
+            </div>
+        </div>
+    </div>
+</div>

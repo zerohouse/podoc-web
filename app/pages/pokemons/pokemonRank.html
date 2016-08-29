@@ -1,0 +1,54 @@
+<div class="container flex layout-column">
+    <div class="layout-row layout-align-center-center pokemon-row header">
+        <div class="pokemon-column">
+            순위
+        </div>
+        <div class="pokemon-column img">
+            이미지
+        </div>
+        <div class="pokemon-column">
+            이름
+        </div>
+        <div class="pokemon-column">
+            평균 CP
+        </div>
+        <div class="pokemon-column img">
+            특성
+        </div>
+        <div class="pokemon-column">
+            비율
+        </div>
+        <div class="flex">
+            1위 포켓몬
+        </div>
+    </div>
+    <div class="flex" scroll>
+        <div ng-repeat="pokemon in pokemonRankService.all | filter:keyword"
+             class="layout-row layout-align-center-center pokemon-row">
+            <div class="pokemon-column">
+                {{$index +1}}
+            </div>
+            <div class="pokemon-column img" ui-sref="pokemonRankDetail({id:pokemon.pokemon.id})">
+                <img ng-src="/{{pokemon.pokemon.img}}">
+            </div>
+            <div class="pokemon-column" ui-sref="pokemonRankDetail({id:pokemon.pokemon.id})">
+                {{pokemon.pokemon.name}}
+            </div>
+
+            <div class="pokemon-column">
+                {{pokemon.pokemon.data.averageCp | number:0}}
+            </div>
+            <div class="pokemon-column img">
+                <type type="type" ng-repeat="type in pokemon.pokemon.types"></type>
+            </div>
+            <div class="pokemon-column">
+                {{pokemon.pokemon.data.percent*100 | number:2}}%
+            </div>
+            <div class="flex text-wrap" ui-sref="pokemonDetail({id:pokemon.id})">
+                {{pokemon.owner.nickname || '익명의 트레이너'}}님의<br>
+                <strong>{{pokemon.nickname || pokemon.pokemon.name}}</strong>
+                CP: {{pokemon.cp}}
+            </div>
+        </div>
+    </div>
+</div>

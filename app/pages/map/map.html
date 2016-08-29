@@ -1,0 +1,11 @@
+<div flex style="position:relative">
+    <ui-gmap-google-map center='map.center' zoom='map.zoom' control="map.control" events="map.events">
+
+
+        <ui-gmap-marker ng-repeat="pokemon in pokemons"
+                        idKey='pokemon.pokemon_id'
+                        coords='{latitude:pokemon.pokemon_x, longitude:pokemon.pokemon_y}'
+                        options="{labelContent:getLabel(pokemon), labelAnchor:'0 -15', icon:pokemon.icon, labelClass:'label-text'}">
+        </ui-gmap-marker>
+    </ui-gmap-google-map>
+</div>
