@@ -38,7 +38,7 @@ angular.module('podoc')
                 controller: 'pokemonDetailCtrl',
             })
             .state("pokemonMap", {
-                url: "/pokemonMap/:lat/:lng",
+                url: "/pokemonMap?:lat:lng",
                 templateUrl: '/pages/map/map.html',
                 controller: 'pokemonMapCtrl',
                 classes: 'layout-column flex',
