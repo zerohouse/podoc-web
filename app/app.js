@@ -14,7 +14,8 @@ angular
         'ngMaterial',
         'angular-jqcloud',
         'infinite-scroll',
-        'uiGmapgoogle-maps'
+        'uiGmapgoogle-maps',
+        'angular-google-adsense'
     ]);
 
 angular.module('podoc.services', []);

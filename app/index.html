@@ -61,6 +61,7 @@
     <script src="/bower_components/google-maps-utility-library-v3-keydragzoom/dist/keydragzoom.js"></script>
     <script src="/bower_components/js-rich-marker/src/richmarker.js"></script>
     <script src="/bower_components/angular-google-maps/dist/angular-google-maps.js"></script>
+    <script src="/bower_components/angular-google-adsense/dist/angular-google-adsense.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
 
@@ -100,7 +101,6 @@
     <script src="/services/db.js"></script>
     <script src="/services/pokemon.description.js"></script>
     <script src="/services/pokemons.service.js"></script>
-    <script src="/template.js"></script>
     <!-- /include -->
     <!-- endbuild -->
 
@@ -121,7 +121,8 @@
     <!-- build:css({.tmp,app}) /styles/main.css -->
     <!-- include: "type": "css", "files": "**/*.css" -->
 
-   <link href="/directives/trainer-summary/pokemon-row.css" rel="stylesheet" type="text/css">
+   <link href="/addsense.css" rel="stylesheet" type="text/css">
+    <link href="/directives/trainer-summary/pokemon-row.css" rel="stylesheet" type="text/css">
     <link href="/directives/trainer-summary/trainer.css" rel="stylesheet" type="text/css">
     <link href="/pages/log/img-icon.css" rel="stylesheet" type="text/css">
     <link href="/pages/map/map.css" rel="stylesheet" type="text/css">
@@ -170,19 +171,12 @@
         </div><!-- /.navbar-collapse -->
     </div>
 </nav>
-<div ui-view style="background:white" ng-class="getClass();"></div>
-<!-- Contents -->
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- podocSide -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:1050px"
-     data-ad-client="ca-pub-6439823362094213"
-     data-ad-slot="2451168686"></ins>
-<script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
+<div flex layout="column">
+    <div style="background:rgb(210,210,250);width:100%;height:80px">
+        <adsense ad-client="ca-pub-6439823362094213" ad-slot="6322965087"
+                 inline-style="display:inline-block;width:728;height:90px" ad-format="Leaderboard"></adsense>
+    </div>
+    <div ui-view style="background:white" ng-class="getClass();"></div>
+</div>
 </body>
 </html>
