@@ -4,6 +4,23 @@
     function pokemonMapCtrl($scope, $ajax, Pokemons, $interval, $stateParams) {
 
 
+        var lat = 38.2039839397;
+        var lng = 128.590853994;
+        $scope.markers = [];
+        var d = 0.0004;
+
+
+        for (var i = 0; i < 5; i++) {
+            var latd = d * i;
+            for (var j = 0; j < 5; j++) {
+                var lngd = d * j;
+                $scope.markers.push({x: lat + latd, y: lng + lngd});
+            }
+        }
+
+        console.log($scope.markers);
+
+
         $scope.pokemons = [];
 
         if (!$scope.map)
@@ -67,9 +84,11 @@
                     var finded = pokemons.findBy("pokemon_id", pokemon.pokemon_id);
                     if (!finded)
                         $scope.pokemons.pokemon_remain_time--;
-                    if ($scope.pokemons.pokemon_remain_time <= 1)
+                    if ($scope.pokemons.pokemon_remain_time <= 2)
                         $scope.pokemons.remove(pokemon);
                 });
+
+
             });
         };
 
