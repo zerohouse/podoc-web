@@ -2,8 +2,11 @@
     <div class="pokemon-column">
         {{rank || trainer.rank}}위
         <!--<div>전체: {{trainer.rank}}위-->
-            <change change="trainer.change"></change>
+        <change change="trainer.change"></change>
         <!--</div>-->
+    </div>
+    <div class="pokemon-column">
+        <img class="team" ng-if="trainer.team" ng-src="{{'/images/teams/'+trainer.team+'.png'}}">
     </div>
     <div class="pokemon-column">
         <img class="avatar" ng-src="{{trainer.img || '/images/profile.png'}}">

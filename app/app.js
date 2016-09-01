@@ -14,7 +14,6 @@ angular
         'ngMaterial',
         'angular-jqcloud',
         'infinite-scroll',
-        'uiGmapgoogle-maps',
         'angular-google-adsense'
     ]);
 

@@ -34,10 +34,24 @@
 </div>
 
 <div class="container">
-    <h2>{{rankerService.district}} Trainers</h2>
+    <h2><span>{{address.address.longName}}</span> Trainers</h2>
+    <p>
+        <strong>{{address.address.trainerSize}}</strong>
+        <small>Trainers</small>
+        <strong>{{address.address.pokemonSize}}</strong>
+        <small>Pokemons</small>
+    </p>
+    <div class="team-ratio">
+        <span ng-show="address.redPercent" ng-style="{width:address.redPercent+'%'}" style="background:#F49D9F"><img src="/images/teams/1.png"></span>
+        <span ng-show="address.bluePercent" ng-style="{width:address.bluePercent+'%'}" style="background:#C1E4FA"><img src="/images/teams/2.png"></span>
+        <span ng-show="address.yellowPercent" ng-style="{width:address.yellowPercent+'%'}" style="background:#F7EEC5"><img src="/images/teams/3.png"></span>
+    </div>
     <div class="layout-row layout-align-center-center pokemon-row header">
         <div class="pokemon-column">
             순위
+        </div>
+        <div class="pokemon-column">
+            팀
         </div>
         <div class="pokemon-column">
             사진

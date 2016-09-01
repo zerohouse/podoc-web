@@ -1,6 +1,8 @@
 angular.module('podoc.services').service('rankerService', rankerService);
 /* @ng-inject */
 function rankerService($ajax, Pokemons) {
+
+
     var self = this;
     self.rankers = [];
     self.page = 0;
@@ -12,8 +14,8 @@ function rankerService($ajax, Pokemons) {
         self.loading = true;
         var query = {page: self.page};
         if (self.district)
-            query.district = self.district;
-        $ajax.get('/api/v1/user/rank', query).then(function (rankers) {
+            query.id = self.district;
+        $ajax.get('/api/v1/address/rank', query).then(function (rankers) {
             self.rankers.pushAll(rankers);
             self.loading = false;
             rankers.forEach(function (ran) {

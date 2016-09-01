@@ -19,7 +19,6 @@
     "flat-ui": "^2.3.0",
     "angular-jqcloud": "^1.0.3",
     "angular-svg-round-progressbar": "^0.4.7",
-    "angular-google-maps": "^2.3.4",
     "angular-google-adsense": "^0.4.5"
   },
   "authors": [
