@@ -1,15 +1,15 @@
+<div ng-click="requestScan();">스캔</div>
+{{map.zoom}}
 <div flex style="position:relative">
     <ui-gmap-google-map center='map.center' zoom='map.zoom' control="map.control" events="map.events">
-
-
-        <ui-gmap-marker ng-repeat="pokemon in pokemons"
-                        idKey='pokemon.pokemon_id'
-                        coords='{latitude:pokemon.pokemon_x, longitude:pokemon.pokemon_y}'
-                        options="{labelContent:getLabel(pokemon), labelAnchor:'0 -15', icon:pokemon.icon, labelClass:'label-text'}">
+        <ui-gmap-marker ng-repeat="pokemon in pokemons" ng-if="map.zoom > 17"
+                        idKey='pokemon.id'
+                        coords='{latitude:pokemon.lat, longitude:pokemon.lng}'
+                        options="{labelContent:pokemon.remainTime, labelAnchor:'25 -45', icon:pokemon.icon, labelClass:'label-text'}">
         </ui-gmap-marker>
-        <ui-gmap-marker ng-repeat="marker in markers"
-                        idKey='$index'
-                        coords='{latitude:marker.x, longitude:marker.y}'
-        </ui-gmap-marker>
+        <ui-gmap-circle ng-if="scanner.center" center='scanner.center'
+                        fill="{color:'#2ecc71',opacity:0.5}"
+                        stroke="{color:'#2ecc71',opacity:0.5}"
+                        radius='120'>
     </ui-gmap-google-map>
 </div>
