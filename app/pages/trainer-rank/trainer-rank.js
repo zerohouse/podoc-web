@@ -13,6 +13,11 @@
             });
         };
 
+        $scope.setTeam = function (team) {
+            rankerService.team = team;
+            rankerService.reset();
+        };
+
         $scope.$on('$stateChangeSuccess', function () {
             rankerService.district = $stateParams.district;
             rankerService.reset();

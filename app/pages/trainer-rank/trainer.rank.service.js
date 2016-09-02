@@ -15,6 +15,8 @@ function rankerService($ajax, Pokemons) {
         var query = {page: self.page};
         if (self.district)
             query.id = self.district;
+        if (self.team)
+            query.team = self.team;
         $ajax.get('/api/v1/address/rank', query).then(function (rankers) {
             self.rankers.pushAll(rankers);
             self.loading = false;
