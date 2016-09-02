@@ -36,7 +36,21 @@ angular.module('podoc')
                 url: "/pokemon/:id",
                 templateUrl: '/pages/pokemon/pokemon.html',
                 controller: 'pokemonDetailCtrl',
-            });
+            })
+            .state("pokemonMap", {
+                url: "/pokemonMap?:lat:lng",
+                templateUrl: '/pages/map/map.html',
+                controller: 'pokemonMapCtrl',
+                classes: 'layout-column flex',
+                onEnter: function ($timeout) {
+                    $timeout(function () {
+                        var map = angular.element($('[ui-view]')).scope().map;
+                        if (!map || !map.control)
+                            return;
+                        map.control.refresh();
+                    });
+                }
+            });;
 
 
         $urlRouterProvider.otherwise("/log");
