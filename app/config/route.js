@@ -50,7 +50,7 @@ angular.module('podoc')
                         map.control.refresh();
                     });
                 }
-            });;
+            });
 
 
         $urlRouterProvider.otherwise("/log");

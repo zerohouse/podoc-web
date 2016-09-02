@@ -40,7 +40,7 @@
                 maxLat: $scope.bounds.f.b,
                 minLng: $scope.bounds.b.b,
                 maxLng: $scope.bounds.b.f
-            }
+            };
         }
 
         $interval(function () {
@@ -51,7 +51,7 @@
                 else {
                     $scope.pokemons.remove(pokemon);
                 }
-            })
+            });
         }, 1000);
 
         $interval($scope.refresh, 2000);
