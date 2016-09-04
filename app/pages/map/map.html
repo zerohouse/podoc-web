@@ -1,8 +1,7 @@
-<div ng-click="requestScan();">스캔</div>
-{{map.zoom}}
+<div ng-if="map.zoom<18">맵의 범위가 너무 커서 스캔하지 못합니다.</div>
 <div flex style="position:relative">
     <ui-gmap-google-map center='map.center' zoom='map.zoom' control="map.control" events="map.events">
-        <ui-gmap-marker ng-repeat="pokemon in pokemons" ng-if="map.zoom > 17"
+        <ui-gmap-marker ng-repeat="pokemon in pokemons"
                         idKey='pokemon.id'
                         coords='{latitude:pokemon.lat, longitude:pokemon.lng}'
                         options="{labelContent:pokemon.remainTime, labelAnchor:'25 -45', icon:pokemon.icon, labelClass:'label-text'}">

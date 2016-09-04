@@ -71,7 +71,8 @@
         $scope.requestBoundaries = function () {
             $timeout.cancel(time);
             time = $timeout(function () {
-                $ajax.post('/api/bounds', getBoundsObj());
+                if ($scope.map.zoom > 17)
+                    $ajax.post('/api/bounds', getBoundsObj());
             }, 300);
         };
 
