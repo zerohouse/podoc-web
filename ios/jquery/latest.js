@@ -88,7 +88,6 @@ var sheet = (function() {
         "  percent-bar label {\n" +
         "    line-height: 15px;\n" +
         "    font-size: 10px; }\n" +
-        "\n" +
         "percent-bar.small {\n" +
         "  height: 10px;\n" +
         "  margin: 0 auto; }\n" +
