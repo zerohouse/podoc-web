@@ -5,13 +5,13 @@
   },
   {
     "name": "서울",
-    "url":"https://open.kakao.com/o/gHWTjZr"
+    "url": "https://open.kakao.com/o/gHWTjZr"
   },
   {
-    "type":"group",
+    "type": "group",
     "name": "경기",
     "url": "https://open.kakao.com/o/gvTi10r",
-    "rooms":[
+    "rooms": [
       {
         "name": "경기",
         "url": "https://open.kakao.com/o/gvTi10r"
@@ -19,14 +19,22 @@
       {
         "name": "안양지역방",
         "url": "https://open.kakao.com/o/g0Mz22r"
+      },
+      {
+        "name": "하남",
+        "url": "https://open.kakao.com/o/gh3462r"
+      },
+      {
+        "name": "김포",
+        "url": "https://open.kakao.com/o/gnQi62r"
       }
     ]
   },
   {
-    "type":"group",
+    "type": "group",
     "name": "경상도",
     "url": "https://open.kakao.com/o/g9Wk10r",
-    "rooms":[
+    "rooms": [
       {
         "name": "경상도",
         "url": "https://open.kakao.com/o/g9Wk10r"
