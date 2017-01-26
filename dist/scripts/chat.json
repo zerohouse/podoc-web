@@ -4,8 +4,20 @@
     "url": "https://open.kakao.com/o/gZD4iZr"
   },
   {
+    "type": "group",
     "name": "서울",
-    "url": "https://open.kakao.com/o/gHWTjZr"
+    "url": "https://open.kakao.com/o/gHWTjZr",
+    "rooms": [
+      {
+        "name": "서울",
+        "url": "https://open.kakao.com/o/gHWTjZr"
+      },
+      {
+        "name": "동작구",
+        "description": "동작구 모여랏!!",
+        "url": "https://open.kakao.com/o/gjOfd3r"
+      }
+    ]
   },
   {
     "type": "group",
@@ -41,7 +53,7 @@
         "url": "https://open.kakao.com/o/gl2S72r"
       },
       {
-        "name": "분당",
+        "name": "성남시",
         "url": "https://open.kakao.com/o/gEbQ82r"
       }
     ]
