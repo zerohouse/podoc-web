@@ -102,8 +102,19 @@
     "url": " https://open.kakao.com/o/g9Uyd3r"
   },
   {
+    "type":"group",
     "name": "충청/강원",
-    "url": "https://open.kakao.com/o/gjct10r"
+    "url": "https://open.kakao.com/o/gjct10r",
+    "rooms": [
+      {
+        "name": "충청/강원",
+        "url": "https://open.kakao.com/o/gjct10r"
+      },
+      {
+        "name": "오창",
+        "url": "https://open.kakao.com/o/gfmwV4r"
+      }
+    ]
   },
   {
     "name": "해외",
