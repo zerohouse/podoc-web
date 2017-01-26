@@ -5,15 +5,22 @@
   },
   {
     "name": "서울",
-    "url": "https://open.kakao.com/o/gHWTjZr"
+    "url":"https://open.kakao.com/o/gHWTjZr"
   },
   {
-    "name": "해외",
-    "url": "https://open.kakao.com/o/gtuopZr"
-  },
-  {
+    "type":"group",
     "name": "경기",
-    "url": "https://open.kakao.com/o/gvTi10r"
+    "url": "https://open.kakao.com/o/gvTi10r",
+    "rooms":[
+      {
+        "name": "경기",
+        "url": "https://open.kakao.com/o/gvTi10r"
+      },
+      {
+        "name": "안양지역방",
+        "url": "https://open.kakao.com/o/g0Mz22r"
+      }
+    ]
   },
   {
     "name": "전라/제주",
@@ -26,6 +33,10 @@
   {
     "name": "부산/경남",
     "url": "https://open.kakao.com/o/g9Wk10r"
+  },
+  {
+    "name": "해외",
+    "url": "https://open.kakao.com/o/gtuopZr"
   },
   {
     "name": "초보초보",
