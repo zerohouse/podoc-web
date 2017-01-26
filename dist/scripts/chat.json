@@ -23,16 +23,27 @@
     ]
   },
   {
+    "type":"group",
+    "name": "경상도",
+    "url": "https://open.kakao.com/o/g9Wk10r",
+    "rooms":[
+      {
+        "name": "경상도",
+        "url": "https://open.kakao.com/o/g9Wk10r"
+      },
+      {
+        "name": "창원",
+        "url": "https://open.kakao.com/o/gMSq52r"
+      }
+    ]
+  },
+  {
     "name": "전라/제주",
     "url": "https://open.kakao.com/o/gmKp10r"
   },
   {
     "name": "충청/강원",
     "url": "https://open.kakao.com/o/gjct10r"
-  },
-  {
-    "name": "부산/경남",
-    "url": "https://open.kakao.com/o/g9Wk10r"
   },
   {
     "name": "해외",
