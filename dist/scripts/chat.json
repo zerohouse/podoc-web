@@ -44,6 +44,14 @@
       {
         "name": "구로구",
         "url": "https://open.kakao.com/o/gD7Zg7r"
+      },
+      {
+        "name": "관악구",
+        "url": "https://open.kakao.com/o/gjoEH7r"
+      },
+      {
+        "name": "마포구",
+        "url": "https://open.kakao.com/o/gvUxI7r"
       }
     ]
   },
@@ -95,6 +103,10 @@
       {
         "name": "화성/오산",
         "url": "https://open.kakao.com/o/gVhCA7r"
+      },
+      {
+        "name": "동탄",
+        "url": "https://open.kakao.com/o/gcKZG0r"
       }
     ]
   },
