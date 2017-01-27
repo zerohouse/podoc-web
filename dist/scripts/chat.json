@@ -34,7 +34,7 @@
         "url": "https://open.kakao.com/o/gcKAr4r"
       },
       {
-        "name": "강동구",
+        "name": "강동/송파구",
         "url": "https://open.kakao.com/o/gWGRg5r"
       },
       {
@@ -106,6 +106,10 @@
       {
         "name": "마창진 김해 부산방",
         "url": "https://open.kakao.com/o/g7v2a6r"
+      },
+      {
+        "name": "부산 중구/서구(용두산, 광복, 부민캠)",
+        "url": " https://open.kakao.com/o/gQ0VS6r"
       }
     ]
   },
