@@ -111,12 +111,16 @@
   },
   {
     "type":"group",
-    "name": "충청/강원",
+    "name": "충청도",
     "url": "https://open.kakao.com/o/gjct10r",
     "rooms": [
       {
-        "name": "충청/강원",
+        "name": "충청도",
         "url": "https://open.kakao.com/o/gjct10r"
+      },
+      {
+        "name": "대전",
+        "url": "https://open.kakao.com/o/gLYIg5r"
       },
       {
         "name": "오창",
@@ -125,7 +129,7 @@
     ]
   },
   {
-    "name": "해외",
+    "name": "강원도",
     "url": "https://open.kakao.com/o/gtuopZr"
   },
   {
