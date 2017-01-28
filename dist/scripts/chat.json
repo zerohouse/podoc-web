@@ -146,7 +146,7 @@
     "url": " https://open.kakao.com/o/g9Uyd3r"
   },
   {
-    "type":"group",
+    "type": "group",
     "name": "충청도",
     "url": "https://open.kakao.com/o/gjct10r",
     "rooms": [
@@ -165,8 +165,19 @@
     ]
   },
   {
+    "type": "group",
     "name": "강원도",
     "url": "https://open.kakao.com/o/gtuopZr"
+    "rooms": [
+      {
+        "name": "강원도",
+        "url": "https://open.kakao.com/o/gtuopZr"
+      },
+      {
+        "name": "연천",
+        "url": "https://open.kakao.com/o/guXTv9r"
+      }
+    ]
   },
   {
     "name": "초보초보",
