@@ -60,6 +60,10 @@
           {
             "name": "광진구 건대세종대어대공",
             "url": "https://open.kakao.com/o/gvaaV9r"
+          },
+          {
+            "name": "동대문구",
+            "url": "https://open.kakao.com/o/gExvbas"
           }
         ]
       },
@@ -123,6 +127,10 @@
           {
             "name": "연천",
             "url": "https://open.kakao.com/o/guXTv9r"
+          },
+          {
+            "name": "고양시/파주시",
+            "url": "https://open.kakao.com/o/g1zFmas"
           }
         ]
       },
@@ -145,7 +153,7 @@
           },
           {
             "name": "부산 중구/서구(용두산, 광복, 부민캠)",
-            "url": " https://open.kakao.com/o/gQ0VS6r"
+            "url": "https://open.kakao.com/o/gQ0VS6r"
           }
         ]
       },
@@ -168,7 +176,7 @@
           },
           {
             "name": "대전",
-            "url": "https://open.kakao.com/o/gLYIg5r"
+            "url": "https://open.kakao.com/o/gpoowas"
           },
           {
             "name": "오창",
@@ -195,7 +203,7 @@
     "rooms": [
       {
         "name": "경북대학교",
-        "url": "https://open.kakao.com/o/gMrqV9r"
+        "url": "https://open.kakao.com/o/gQTUZ9r"
       }
     ]
   },
