@@ -68,6 +68,10 @@
           {
             "name": "용산구",
             "url": "https://open.kakao.com/o/gKC0Kbs"
+          },
+          {
+            "name": "성동구/중구",
+            "url": "https://open.kakao.com/o/gabcSbs"
           }
         ]
       },
