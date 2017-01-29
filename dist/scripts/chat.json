@@ -5,177 +5,193 @@
   },
   {
     "type": "group",
-    "name": "서울",
-    "url": "https://open.kakao.com/o/gHWTjZr",
+    "name": "지역 채팅",
     "rooms": [
       {
+        "type": "group",
         "name": "서울",
-        "url": "https://open.kakao.com/o/gHWTjZr"
+        "url": "https://open.kakao.com/o/gHWTjZr",
+        "rooms": [
+          {
+            "name": "서울",
+            "url": "https://open.kakao.com/o/gHWTjZr"
+          },
+          {
+            "name": "동작구",
+            "description": "동작구 모여랏!!",
+            "url": "https://open.kakao.com/o/gjOfd3r"
+          },
+          {
+            "name": "강북/성북/노원/도봉",
+            "url": "https://open.kakao.com/o/gaQit4r"
+          },
+          {
+            "name": "여의도 포켓몬GO 모임",
+            "url": "https://open.kakao.com/o/gtJ6y4r"
+          },
+          {
+            "name": "강남",
+            "url": "https://open.kakao.com/o/gznZt4r"
+          },
+          {
+            "name": "중랑구",
+            "url": "https://open.kakao.com/o/gcKAr4r"
+          },
+          {
+            "name": "강동/송파구",
+            "url": "https://open.kakao.com/o/gWGRg5r"
+          },
+          {
+            "name": "강서구",
+            "url": "https://open.kakao.com/o/gotDf6r"
+          },
+          {
+            "name": "구로구",
+            "url": "https://open.kakao.com/o/gD7Zg7r"
+          },
+          {
+            "name": "관악구",
+            "url": "https://open.kakao.com/o/gjoEH7r"
+          },
+          {
+            "name": "마포구",
+            "url": "https://open.kakao.com/o/gvUxI7r"
+          }
+        ]
       },
       {
-        "name": "동작구",
-        "description": "동작구 모여랏!!",
-        "url": "https://open.kakao.com/o/gjOfd3r"
-      },
-      {
-        "name": "강북/성북/노원/도봉",
-        "url": "https://open.kakao.com/o/gaQit4r"
-      },
-      {
-        "name": "여의도 포켓몬GO 모임",
-        "url": "https://open.kakao.com/o/gtJ6y4r"
-      },
-      {
-        "name": "강남",
-        "url": "https://open.kakao.com/o/gznZt4r"
-      },
-      {
-        "name": "중랑구",
-        "url": "https://open.kakao.com/o/gcKAr4r"
-      },
-      {
-        "name": "강동/송파구",
-        "url": "https://open.kakao.com/o/gWGRg5r"
-      },
-      {
-        "name": "강서구",
-        "url": "https://open.kakao.com/o/gotDf6r"
-      },
-      {
-        "name": "구로구",
-        "url": "https://open.kakao.com/o/gD7Zg7r"
-      },
-      {
-        "name": "관악구",
-        "url": "https://open.kakao.com/o/gjoEH7r"
-      },
-      {
-        "name": "마포구",
-        "url": "https://open.kakao.com/o/gvUxI7r"
-      }
-    ]
-  },
-  {
-    "type": "group",
-    "name": "경기",
-    "url": "https://open.kakao.com/o/gvTi10r",
-    "rooms": [
-      {
+        "type": "group",
         "name": "경기",
-        "url": "https://open.kakao.com/o/gvTi10r"
+        "url": "https://open.kakao.com/o/gvTi10r",
+        "rooms": [
+          {
+            "name": "경기",
+            "url": "https://open.kakao.com/o/gvTi10r"
+          },
+          {
+            "name": "수원/안양/군포/의왕",
+            "url": "https://open.kakao.com/o/g0Mz22r"
+          },
+          {
+            "name": "하남",
+            "url": "https://open.kakao.com/o/gh3462r"
+          },
+          {
+            "name": "김포",
+            "url": "https://open.kakao.com/o/gnQi62r"
+          },
+          {
+            "name": "구리",
+            "url": "https://open.kakao.com/o/gqdW82r"
+          },
+          {
+            "name": "부천/인천",
+            "url": "https://open.kakao.com/o/gx8d82r"
+          },
+          {
+            "name": "의정부",
+            "url": "https://open.kakao.com/o/gl2S72r"
+          },
+          {
+            "name": "성남시",
+            "url": "https://open.kakao.com/o/gEbQ82r"
+          },
+          {
+            "name": "광명시",
+            "url": "https://open.kakao.com/o/ghjE53r"
+          },
+          {
+            "name": "경기 광주",
+            "url": "https://open.kakao.com/o/gHvek4r"
+          },
+          {
+            "name": "화성/오산/안산",
+            "url": "https://open.kakao.com/o/gVhCA7r"
+          },
+          {
+            "name": "동탄",
+            "url": "https://open.kakao.com/o/gcKZG0r"
+          },
+          {
+            "name": "평택",
+            "url": "https://open.kakao.com/o/gBR682r"
+          },
+          {
+            "name": "연천",
+            "url": "https://open.kakao.com/o/guXTv9r"
+          }
+        ]
       },
       {
-        "name": "수원/안양/군포/의왕",
-        "url": "https://open.kakao.com/o/g0Mz22r"
-      },
-      {
-        "name": "하남",
-        "url": "https://open.kakao.com/o/gh3462r"
-      },
-      {
-        "name": "김포",
-        "url": "https://open.kakao.com/o/gnQi62r"
-      },
-      {
-        "name": "구리",
-        "url": "https://open.kakao.com/o/gqdW82r"
-      },
-      {
-        "name": "부천/인천",
-        "url": "https://open.kakao.com/o/gx8d82r"
-      },
-      {
-        "name": "의정부",
-        "url": "https://open.kakao.com/o/gl2S72r"
-      },
-      {
-        "name": "성남시",
-        "url": "https://open.kakao.com/o/gEbQ82r"
-      },
-      {
-        "name": "광명시",
-        "url": "https://open.kakao.com/o/ghjE53r"
-      },
-      {
-        "name": "경기 광주",
-        "url": "https://open.kakao.com/o/gHvek4r"
-      },
-      {
-        "name": "화성/오산/안산",
-        "url": "https://open.kakao.com/o/gVhCA7r"
-      },
-      {
-        "name": "동탄",
-        "url": "https://open.kakao.com/o/gcKZG0r"
-      },
-      {
-        "name": "평택",
-        "url": "https://open.kakao.com/o/gBR682r"
-      }
-    ]
-  },
-  {
-    "type": "group",
-    "name": "경상도",
-    "url": "https://open.kakao.com/o/g9Wk10r",
-    "rooms": [
-      {
+        "type": "group",
         "name": "경상도",
-        "url": "https://open.kakao.com/o/g9Wk10r"
+        "url": "https://open.kakao.com/o/g9Wk10r",
+        "rooms": [
+          {
+            "name": "경상도",
+            "url": "https://open.kakao.com/o/g9Wk10r"
+          },
+          {
+            "name": "창원",
+            "url": "https://open.kakao.com/o/gMSq52r"
+          },
+          {
+            "name": "마창진 김해 부산방",
+            "url": "https://open.kakao.com/o/g7v2a6r"
+          },
+          {
+            "name": "부산 중구/서구(용두산, 광복, 부민캠)",
+            "url": " https://open.kakao.com/o/gQ0VS6r"
+          }
+        ]
       },
       {
-        "name": "창원",
-        "url": "https://open.kakao.com/o/gMSq52r"
+        "name": "전라도",
+        "url": "https://open.kakao.com/o/gmKp10r"
       },
       {
-        "name": "마창진 김해 부산방",
-        "url": "https://open.kakao.com/o/g7v2a6r"
+        "name": "제주도",
+        "url": " https://open.kakao.com/o/g9Uyd3r"
       },
       {
-        "name": "부산 중구/서구(용두산, 광복, 부민캠)",
-        "url": " https://open.kakao.com/o/gQ0VS6r"
-      }
-    ]
-  },
-  {
-    "name": "전라도",
-    "url": "https://open.kakao.com/o/gmKp10r"
-  },
-  {
-    "name": "제주도",
-    "url": " https://open.kakao.com/o/g9Uyd3r"
-  },
-  {
-    "type": "group",
-    "name": "충청도",
-    "url": "https://open.kakao.com/o/gjct10r",
-    "rooms": [
-      {
+        "type": "group",
         "name": "충청도",
-        "url": "https://open.kakao.com/o/gjct10r"
+        "url": "https://open.kakao.com/o/gjct10r",
+        "rooms": [
+          {
+            "name": "충청도",
+            "url": "https://open.kakao.com/o/gjct10r"
+          },
+          {
+            "name": "대전",
+            "url": "https://open.kakao.com/o/gLYIg5r"
+          },
+          {
+            "name": "오창",
+            "url": "https://open.kakao.com/o/gfmwV4r"
+          }
+        ]
       },
       {
-        "name": "대전",
-        "url": "https://open.kakao.com/o/gLYIg5r"
-      },
-      {
-        "name": "오창",
-        "url": "https://open.kakao.com/o/gfmwV4r"
+        "type": "group",
+        "name": "강원도",
+        "url": "https://open.kakao.com/o/gtuopZr",
+        "rooms": [
+          {
+            "name": "강원도",
+            "url": "https://open.kakao.com/o/gtuopZr"
+          }
+        ]
       }
     ]
   },
   {
     "type": "group",
-    "name": "강원도",
-    "url": "https://open.kakao.com/o/gtuopZr",
+    "name": "대학교",
     "rooms": [
       {
-        "name": "강원도",
-        "url": "https://open.kakao.com/o/gtuopZr"
-      },
-      {
-        "name": "연천",
-        "url": "https://open.kakao.com/o/guXTv9r"
+        "name": "경북대학교",
+        "url": "https://open.kakao.com/o/gMrqV9r"
       }
     ]
   },
