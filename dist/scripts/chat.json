@@ -170,10 +170,6 @@
         "name": "전라도",
         "url": "https://open.kakao.com/o/gmKp10r",
         "rooms": [
-          //          {
-          //            "name": "전라도",
-          //            "url": "https://open.kakao.com/o/gmKp10r"
-          //          },
           {
             "name": "순천",
             "url": "https://open.kakao.com/o/gwsXj9r"
