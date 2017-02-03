@@ -93,6 +93,10 @@
             "url": "https://open.kakao.com/o/gx8d82r"
           },
           {
+            "name": "인천 팀 미스틱",
+            "url": "https://open.kakao.com/o/gR1drms"
+          },
+          {
             "name": "의정부",
             "url": "https://open.kakao.com/o/gl2S72r"
           },
@@ -208,6 +212,16 @@
       {
         "name": "한국영상대",
         "url": "https://open.kakao.com/o/gkgs7bs"
+      }
+    ]
+  },
+  {
+    "type": "group",
+    "name": "팀별",
+    "rooms": [
+      {
+        "name": "인천 팀 미스틱",
+        "url": "https://open.kakao.com/o/gR1drms"
       }
     ]
   },
