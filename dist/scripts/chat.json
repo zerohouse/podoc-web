@@ -1,5 +1,10 @@
 [
   {
+    "name": "Podocs Pokemon world",
+    "description": "제보orFake강퇴",
+    "url": "https://open.kakao.com/o/gsdNLrs"
+  },
+  {
     "type": "group",
     "name": "지역 채팅",
     "rooms": [
