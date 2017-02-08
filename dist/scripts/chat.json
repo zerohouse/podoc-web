@@ -190,12 +190,7 @@
         "type": "group",
         "name": "전라도",
         "url": "https://open.kakao.com/o/gmKp10r",
-        "rooms": [
-          {
-            "name": "순천",
-            "url": "https://open.kakao.com/o/gwsXj9r"
-          }
-        ]
+        "rooms": []
       },
       {
         "type": "group",
