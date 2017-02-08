@@ -1,10 +1,5 @@
 [
   {
-    "name": "Podocs Pokemon world",
-    "description": "제보orFake강퇴",
-    "url": "https://open.kakao.com/o/gsdNLrs"
-  },
-  {
     "type": "group",
     "name": "지역 채팅",
     "rooms": [
@@ -43,10 +38,6 @@
             "url": "https://open.kakao.com/o/gotDf6r"
           },
           {
-            "name": "구로구",
-            "url": "https://open.kakao.com/o/gD7Zg7r"
-          },
-          {
             "name": "관악구",
             "url": "https://open.kakao.com/o/gjoEH7r"
           },
@@ -61,10 +52,6 @@
           {
             "name": "동대문구/성동구/광진구",
             "url": "https://open.kakao.com/o/gExvbas"
-          },
-          {
-            "name": "광진구",
-            "url": "https://open.kakao.com/o/g5ojqks"
           },
           {
             "name": "성동구/중구",
@@ -87,7 +74,7 @@
           },
           {
             "name": "안양",
-            "url": "https://open.kakao.com/o/g0Mz22r"
+            "url": "https://open.kakao.com/o/gs0ZNts"
           },
           {
             "name": "하남",
@@ -148,10 +135,6 @@
           {
             "name": "고양/일산",
             "url": "https://open.kakao.com/o/gNZDi3r"
-          },
-          {
-            "name": "천안",
-            "url": "https://open.kakao.com/o/gyF7Ems"
           }
         ]
       },
@@ -160,10 +143,6 @@
         "name": "경상도",
         "url": "https://open.kakao.com/o/g9Wk10r",
         "rooms": [
-          {
-            "name": "마창진 김해 부산방",
-            "url": "https://open.kakao.com/o/g7v2a6r"
-          },
           {
             "name": "부산 중구/서구(용두산, 광복, 부민캠)",
             "url": "https://open.kakao.com/o/gQ0VS6r"
@@ -208,10 +187,6 @@
           {
             "name": "청주",
             "url": "https://open.kakao.com/o/gV3I6cs"
-          },
-          {
-            "name": "제천",
-            "url": "https://open.kakao.com/o/gXiPNjs"
           }
         ]
       },
