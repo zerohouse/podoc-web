@@ -221,6 +221,16 @@
     ]
   },
   {
+    "type": "group",
+    "name": "연령별",
+    "rooms": [
+      {
+        "name": "서울 - 강북 30대",
+        "url": "https://open.kakao.com/o/grkh7xs"
+      }
+    ]
+  },
+  {
     "name": "버그 제보 / 문의",
     "url": "https://open.kakao.com/o/swadrls"
   }
