@@ -181,6 +181,10 @@
         "url": "https://open.kakao.com/o/gjct10r",
         "rooms": [
           {
+            "name": "충청도",
+            "url": "https://open.kakao.com/o/gR0k7Fs"
+          },
+          {
             "name": "대전",
             "url": "https://open.kakao.com/o/gpoowas"
           },
