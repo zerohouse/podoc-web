@@ -30,10 +30,6 @@
             "url": "https://open.kakao.com/o/grlaits"
           },
           {
-            "name": "여의도 포켓몬GO 모임",
-            "url": "https://open.kakao.com/o/gtJ6y4r"
-          },
-          {
             "name": "중랑구",
             "url": "https://open.kakao.com/o/gcKAr4r"
           },
@@ -193,6 +189,10 @@
             "url": "https://open.kakao.com/o/gR0k7Fs"
           },
           {
+            "name": "충청남도",
+            "url": "https://open.kakao.com/o/gDFppls"
+          },
+          {
             "name": "대전",
             "url": "https://open.kakao.com/o/gpoowas"
           },
@@ -241,6 +241,10 @@
       {
         "name": "인천 팀 미스틱",
         "url": "https://open.kakao.com/o/gR1drms"
+      },
+      {
+        "name": "팀 인스팅트 노랑이 연합",
+        "url": "https://open.kakao.com/o/g454u1r"
       }
     ]
   },
