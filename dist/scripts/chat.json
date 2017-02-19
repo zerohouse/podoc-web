@@ -1,5 +1,9 @@
 [
   {
+    "name": "Podocs 챗방",
+    "url": "https://open.kakao.com/o/gZD4iZr"
+  },
+  {
     "type": "group",
     "name": "지역 채팅",
     "rooms": [
@@ -8,6 +12,10 @@
         "name": "서울",
         "url": "https://open.kakao.com/o/gHWTjZr",
         "rooms": [
+          {
+            "name": "Podocs 서울",
+            "url": "https://open.kakao.com/o/gHWTjZr"
+          },
           {
             "name": "서울",
             "url": "https://open.kakao.com/o/gYP8cGs"
@@ -72,6 +80,10 @@
         "name": "경기",
         "url": "https://open.kakao.com/o/gvTi10r",
         "rooms": [
+          {
+            "name": "Podocs 경기",
+            "url": "https://open.kakao.com/o/gvTi10r"
+          },
           {
             "name": "수원/안양/군포/의왕",
             "url": "https://open.kakao.com/o/g0Mz22r"
@@ -152,6 +164,10 @@
         "url": "https://open.kakao.com/o/g9Wk10r",
         "rooms": [
           {
+            "name": "Podocs 경상도",
+            "url": "https://open.kakao.com/o/g9Wk10r"
+          },
+          {
             "name": "부산 중구/서구(용두산, 광복, 부민캠)",
             "url": "https://open.kakao.com/o/gQ0VS6r"
           },
@@ -177,7 +193,12 @@
         "type": "group",
         "name": "전라도",
         "url": "https://open.kakao.com/o/gmKp10r",
-        "rooms": []
+        "rooms": [
+          {
+            "name": "충청도",
+            "url": "https://open.kakao.com/o/gmKp10r"
+          }
+        ]
       },
       {
         "type": "group",
@@ -265,5 +286,13 @@
   {
     "name": "버그 제보 / 문의",
     "url": "https://open.kakao.com/o/swadrls"
+  },
+  {
+    "name": "Podocs 정보공유",
+    "url": "https://open.kakao.com/o/gMuspZr"
+  },
+  {
+    "name": "Podocs 초보방",
+    "url": "https://open.kakao.com/o/gMuspZr"
   }
 ]
