@@ -17,10 +17,6 @@
             "url": "https://open.kakao.com/o/gHWTjZr"
           },
           {
-            "name": "서울",
-            "url": "https://open.kakao.com/o/gYP8cGs"
-          },
-          {
             "name": "동작구",
             "description": "동작구 모여랏!!",
             "url": "https://open.kakao.com/o/gjOfd3r"
@@ -31,15 +27,7 @@
           },
           {
             "name": "강북/성북/노원/도봉",
-            "url": "https://open.kakao.com/o/gaQit4r"
-          },
-          {
-            "name": "서울 북부 크루",
-            "url": "https://open.kakao.com/o/grlaits"
-          },
-          {
-            "name": "중랑구",
-            "url": "https://open.kakao.com/o/gcKAr4r"
+            "url": "https://open.kakao.com/o/g7PKQ5s"
           },
           {
             "name": "강동/송파구",
@@ -93,20 +81,8 @@
             "url": "https://open.kakao.com/o/gChLzGs"
           },
           {
-            "name": "안양",
-            "url": "https://open.kakao.com/o/gs0ZNts"
-          },
-          {
             "name": "하남",
             "url": "https://open.kakao.com/o/gh3462r"
-          },
-          {
-            "name": "김포",
-            "url": "https://open.kakao.com/o/gnQi62r"
-          },
-          {
-            "name": "구리",
-            "url": "https://open.kakao.com/o/gqdW82r"
           },
           {
             "name": "부천/인천",
@@ -206,10 +182,6 @@
         "url": "https://open.kakao.com/o/gjct10r",
         "rooms": [
           {
-            "name": "충청도",
-            "url": "https://open.kakao.com/o/gR0k7Fs"
-          },
-          {
             "name": "충청남도",
             "url": "https://open.kakao.com/o/gDFppls"
           },
@@ -228,10 +200,6 @@
         ]
       },
       {
-        "name": "강원도/원주",
-        "url": "https://open.kakao.com/o/gWtuhls"
-      },
-      {
         "name": "제주도",
         "url": "https://open.kakao.com/o/g6cbIzs"
       }
@@ -248,10 +216,6 @@
       {
         "name": "한국영상대",
         "url": "https://open.kakao.com/o/gkgs7bs"
-      },
-      {
-        "name": "순천향대학교",
-        "url": "https://open.kakao.com/o/gwJcsos"
       }
     ]
   },
